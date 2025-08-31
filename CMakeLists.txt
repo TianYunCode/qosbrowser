@@ -86,7 +86,7 @@ set(UI_FILES
     ${CMAKE_CURRENT_SOURCE_DIR}/fend/uitransfer/uidownload.ui
     ${CMAKE_CURRENT_SOURCE_DIR}/fend/uitransfer/uitransfer.ui
     ${CMAKE_CURRENT_SOURCE_DIR}/fend/uitransfer/uiupload.ui
-)
+) 
 
 # 添加资源文件
 set(RESOURCES
