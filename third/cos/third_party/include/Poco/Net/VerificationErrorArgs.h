@@ -1,4 +1,4 @@
-﻿//
+//
 // VerificationErrorArgs.h
 //
 // Library: NetSSL_OpenSSL

@@ -1,4 +1,4 @@
-﻿//
+//
 // MessageHeader.h
 //
 // Library: Net

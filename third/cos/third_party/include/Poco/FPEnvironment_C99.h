@@ -1,4 +1,4 @@
-﻿//
+//
 // FPEnvironment_C99.h
 //
 // Library: Foundation

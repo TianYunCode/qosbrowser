@@ -1,4 +1,4 @@
-﻿//
+//
 // Template.h
 //
 // Library: JSON

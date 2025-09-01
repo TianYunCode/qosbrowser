@@ -1,4 +1,4 @@
-﻿//
+//
 // IntValidator.h
 //
 // Library: Util

@@ -1,4 +1,4 @@
-﻿//
+//
 // AccessExpireCache.h
 //
 // Library: Foundation

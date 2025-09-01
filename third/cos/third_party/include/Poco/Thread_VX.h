@@ -1,4 +1,4 @@
-﻿//
+//
 // Thread_VX.h
 //
 // Library: Foundation

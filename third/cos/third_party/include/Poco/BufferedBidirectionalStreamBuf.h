@@ -1,4 +1,4 @@
-﻿//
+//
 // BufferedBidirectionalStreamBuf.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // Path_WINCE.h
 //
 // Library: Foundation

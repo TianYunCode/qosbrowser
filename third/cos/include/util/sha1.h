@@ -1,4 +1,4 @@
-﻿#ifndef SHA_H
+#ifndef SHA_H
 #define SHA_H
 #include <stdio.h>
 #include <stdlib.h>

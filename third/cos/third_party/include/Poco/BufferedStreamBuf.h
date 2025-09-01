@@ -1,4 +1,4 @@
-﻿//
+//
 // BufferedStreamBuf.h
 //
 // Library: Foundation

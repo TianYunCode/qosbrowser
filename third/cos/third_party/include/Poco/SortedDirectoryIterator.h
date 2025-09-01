@@ -1,4 +1,4 @@
-﻿//
+//
 // SortedDirectoryIterator.h
 //
 // Library: Foundation

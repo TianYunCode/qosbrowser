@@ -1,4 +1,4 @@
-﻿//
+//
 // NumberParser.h
 //
 // Library: Foundation

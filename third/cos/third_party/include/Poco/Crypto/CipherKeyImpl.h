@@ -1,4 +1,4 @@
-﻿//
+//
 // CipherKeyImpl.h
 //
 // Library: Crypto

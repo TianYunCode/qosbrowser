@@ -1,4 +1,4 @@
-﻿//
+//
 // BulkBinding.h
 //
 // Library: Data

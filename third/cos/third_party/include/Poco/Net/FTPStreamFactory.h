@@ -1,4 +1,4 @@
-﻿//
+//
 // FTPStreamFactory.h
 //
 // Library: Net

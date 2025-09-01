@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractCache.h
 //
 // Library: Foundation

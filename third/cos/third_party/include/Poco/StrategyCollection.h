@@ -1,4 +1,4 @@
-﻿//
+//
 // StrategyCollection.h
 //
 // Library: Foundation

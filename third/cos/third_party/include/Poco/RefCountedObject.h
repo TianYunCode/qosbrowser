@@ -1,4 +1,4 @@
-﻿//
+//
 // RefCountedObject.h
 //
 // Library: Foundation

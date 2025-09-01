@@ -1,4 +1,4 @@
-﻿//
+//
 // RawSocket.h
 //
 // Library: Net

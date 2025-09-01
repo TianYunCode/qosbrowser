@@ -1,4 +1,4 @@
-﻿#ifndef LOG_UTIL_H
+#ifndef LOG_UTIL_H
 #define LOG_UTIL_H
 
 #include <stdint.h>

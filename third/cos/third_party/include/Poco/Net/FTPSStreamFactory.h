@@ -1,4 +1,4 @@
-﻿//
+//
 // FTPSStreamFactory.h
 //
 // Library: NetSSL_OpenSSL

@@ -1,4 +1,4 @@
-﻿//
+//
 // FIFOStrategy.h
 //
 // Library: Foundation

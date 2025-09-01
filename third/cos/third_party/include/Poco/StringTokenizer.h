@@ -1,4 +1,4 @@
-﻿//
+//
 // StringTokenizer.h
 //
 // Library: Foundation

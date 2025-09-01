@@ -1,4 +1,4 @@
-﻿//
+//
 // Debugger.h
 //
 // Library: Foundation

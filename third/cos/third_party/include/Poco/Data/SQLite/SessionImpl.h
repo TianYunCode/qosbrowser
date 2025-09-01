@@ -1,4 +1,4 @@
-﻿//
+//
 // SessionImpl.h
 //
 // Library: Data/SQLite

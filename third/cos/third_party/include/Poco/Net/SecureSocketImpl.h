@@ -1,4 +1,4 @@
-﻿//
+//
 // SecureSocketImpl.h
 //
 // Library: NetSSL_OpenSSL

@@ -1,4 +1,4 @@
-﻿//
+//
 // Utility.h
 //
 // Library: NetSSL_OpenSSL

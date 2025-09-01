@@ -1,4 +1,4 @@
-﻿//
+//
 // DefaultStrategy.h
 //
 // Library: Foundation

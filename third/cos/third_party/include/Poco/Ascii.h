@@ -1,4 +1,4 @@
-﻿//
+//
 // Ascii.h
 //
 // Library: Foundation

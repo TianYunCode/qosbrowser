@@ -1,4 +1,4 @@
-﻿//
+//
 // Time.h
 //
 // Library: Data

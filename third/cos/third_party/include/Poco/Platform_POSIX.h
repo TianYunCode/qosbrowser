@@ -1,4 +1,4 @@
-﻿//
+//
 // Platform_POSIX.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // MultipartWriter.h
 //
 // Library: Net

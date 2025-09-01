@@ -1,4 +1,4 @@
-﻿//
+//
 // UniqueExpireStrategy.h
 //
 // Library: Foundation

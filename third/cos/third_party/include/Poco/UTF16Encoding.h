@@ -1,4 +1,4 @@
-﻿//
+//
 // UTF16Encoding.h
 //
 // Library: Foundation

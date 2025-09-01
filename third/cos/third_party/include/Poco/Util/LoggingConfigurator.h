@@ -1,4 +1,4 @@
-﻿//
+//
 // LoggingConfigurator.h
 //
 // Library: Util

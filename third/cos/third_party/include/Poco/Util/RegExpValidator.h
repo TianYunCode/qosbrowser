@@ -1,4 +1,4 @@
-﻿//
+//
 // RegExpValidator.h
 //
 // Library: Util

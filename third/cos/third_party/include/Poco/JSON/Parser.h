@@ -1,4 +1,4 @@
-﻿//
+//
 // Parser.h
 //
 // Library: JSON

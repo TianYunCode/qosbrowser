@@ -1,4 +1,4 @@
-﻿//
+//
 // CryptoStream.h
 //
 // Library: Crypto

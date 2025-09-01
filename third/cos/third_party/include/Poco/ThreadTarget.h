@@ -1,4 +1,4 @@
-﻿//
+//
 // ThreadTarget.h
 //
 // Library: Foundation

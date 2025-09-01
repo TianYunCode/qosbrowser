@@ -1,4 +1,4 @@
-﻿//
+//
 // SimpleHashTable.h
 //
 // Library: Foundation

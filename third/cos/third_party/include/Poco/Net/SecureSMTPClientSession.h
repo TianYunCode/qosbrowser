@@ -1,4 +1,4 @@
-﻿//
+//
 // SecureSMTPClientSession.h
 //
 // Library: NetSSL_OpenSSL

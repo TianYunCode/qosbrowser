@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #include "response/object_resp.h"
 #include "trsf/transfer_handler.h"
 #include <memory>

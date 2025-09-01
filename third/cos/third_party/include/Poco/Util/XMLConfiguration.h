@@ -1,4 +1,4 @@
-﻿//
+//
 // XMLConfiguration.h
 //
 // Library: Util

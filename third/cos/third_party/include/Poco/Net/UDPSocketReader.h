@@ -1,4 +1,4 @@
-﻿//
+//
 // UDPSocketReader.h
 //
 // Library: Net

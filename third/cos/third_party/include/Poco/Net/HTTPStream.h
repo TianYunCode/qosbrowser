@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPStream.h
 //
 // Library: Net

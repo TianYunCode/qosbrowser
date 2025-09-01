@@ -1,4 +1,4 @@
-﻿//
+//
 // Path_UNIX.h
 //
 // Library: Foundation

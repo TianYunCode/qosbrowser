@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPBasicStreamBuf.h
 //
 // Library: Net

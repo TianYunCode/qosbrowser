@@ -1,4 +1,4 @@
-﻿//
+//
 // RemoteSyslogChannel.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // TCPServerParams.h
 //
 // Library: Net

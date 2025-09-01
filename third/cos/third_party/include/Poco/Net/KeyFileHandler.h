@@ -1,4 +1,4 @@
-﻿//
+//
 // KeyFileHandler.h
 //
 // Library: NetSSL_OpenSSL

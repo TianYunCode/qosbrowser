@@ -1,4 +1,4 @@
-﻿#ifndef UTIL_AUTHTOOl_H
+#ifndef UTIL_AUTHTOOl_H
 #define UTIL_AUTHTOOl_H
 
 #include <stdint.h>

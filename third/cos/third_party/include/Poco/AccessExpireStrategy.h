@@ -1,4 +1,4 @@
-﻿//
+//
 // AccessExpireStrategy.h
 //
 // Library: Foundation

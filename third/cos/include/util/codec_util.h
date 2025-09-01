@@ -1,4 +1,4 @@
-﻿#ifndef CODEC_UTIL_H
+#ifndef CODEC_UTIL_H
 #define CODEC_UTIL_H
 
 #include <stdint.h>

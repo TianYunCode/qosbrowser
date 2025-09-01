@@ -1,4 +1,4 @@
-﻿//
+//
 // DeflatingStream.h
 //
 // Library: Foundation

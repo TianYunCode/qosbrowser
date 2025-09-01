@@ -1,4 +1,4 @@
-﻿//
+//
 // AcceptCertificateHandler.h
 //
 // Library: NetSSL_OpenSSL

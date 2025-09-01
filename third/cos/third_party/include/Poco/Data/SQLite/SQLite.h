@@ -1,4 +1,4 @@
-﻿//
+//
 // SQLite.h
 //
 // Library: Data/SQLite

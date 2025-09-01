@@ -1,4 +1,4 @@
-﻿//
+//
 // FIFOBufferStream.h
 //
 // Library: Foundation

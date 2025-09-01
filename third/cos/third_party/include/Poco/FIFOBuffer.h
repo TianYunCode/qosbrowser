@@ -1,4 +1,4 @@
-﻿//
+//
 // FIFOBuffer.h
 //
 // Library: Foundation

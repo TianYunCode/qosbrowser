@@ -1,4 +1,4 @@
-﻿#pragma execution_character_set("utf-8")
+#pragma execution_character_set("utf-8")
 
 #include "uilogindialog.h"
 #include "bend/man/mandb.h"
@@ -21,9 +21,9 @@ UiLoginDialog::UiLoginDialog(QWidget *parent)
     ui->btnLogin->setDefault(true);
 
     ui->labelLoginName->setProperty("style_font", "h5");
-    ui->labelSecretId->setProperty("style_font", "h5");
-    ui->labelSecretKey->setProperty("style_font", "h5");
-    ui->labelRemark->setProperty("style_font", "h5");
+    //ui->labelSecretId->setProperty("style_font", "h5");
+    //ui->labelSecretKey->setProperty("style_font", "h5");
+    //ui->labelRemark->setProperty("style_font", "h5");
 
     ui->btnLogin->setProperty("style_font", "h5");
     ui->btnLogin->setProperty("style_button", "main");
@@ -36,7 +36,8 @@ UiLoginDialog::UiLoginDialog(QWidget *parent)
     connect(MG->mSignal, &ManSignals::error, this, &UiLoginDialog::onLoginError);
     updateLoginInfo();
 
-    resize(400,  450);
+    //resize(360,  270);
+    setFixedSize(360, 270);
 }
 
 UiLoginDialog::~UiLoginDialog()

@@ -1,4 +1,4 @@
-﻿//
+//
 // Format.h
 //
 // Library: Foundation

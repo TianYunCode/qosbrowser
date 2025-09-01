@@ -1,4 +1,4 @@
-﻿//
+//
 // NetException.h
 //
 // Library: Net

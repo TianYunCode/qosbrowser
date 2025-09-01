@@ -1,4 +1,4 @@
-﻿//
+//
 // AutoReleasePool.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // IPAddressImpl.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // ThreadPool.h
 //
 // Library: Foundation

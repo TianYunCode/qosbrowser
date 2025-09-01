@@ -1,4 +1,4 @@
-﻿//
+//
 // SessionPoolContainer.h
 //
 // Library: Data

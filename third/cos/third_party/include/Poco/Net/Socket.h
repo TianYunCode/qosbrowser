@@ -1,4 +1,4 @@
-﻿//
+//
 // Socket.h
 //
 // Library: Net

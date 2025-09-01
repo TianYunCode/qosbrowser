@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPStreamFactory.h
 //
 // Library: Net

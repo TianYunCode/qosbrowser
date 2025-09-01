@@ -1,4 +1,4 @@
-﻿#ifndef STRING_UTIL_H
+#ifndef STRING_UTIL_H
 #define STRING_UTIL_H
 
 #include <stdint.h>

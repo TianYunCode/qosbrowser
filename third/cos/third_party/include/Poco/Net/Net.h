@@ -1,4 +1,4 @@
-﻿//
+//
 // Net.h
 //
 // Library: Net

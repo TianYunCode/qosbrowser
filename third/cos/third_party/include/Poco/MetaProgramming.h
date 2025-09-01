@@ -1,4 +1,4 @@
-﻿//
+//
 // MetaProgramming.h
 //
 // Library: Foundation

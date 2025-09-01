@@ -1,4 +1,4 @@
-﻿//
+//
 // Cipher.h
 //
 // Library: Crypto

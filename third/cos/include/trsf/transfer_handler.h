@@ -1,4 +1,4 @@
-﻿#ifndef __TRSF_HANDLER_H__
+#ifndef __TRSF_HANDLER_H__
 #define __TRSF_HANDLER_H__
 
 #include "op/cos_result.h"

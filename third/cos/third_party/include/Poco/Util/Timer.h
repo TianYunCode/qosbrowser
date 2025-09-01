@@ -1,4 +1,4 @@
-﻿//
+//
 // Timer.h
 //
 // Library: Util

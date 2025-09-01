@@ -1,4 +1,4 @@
-﻿//
+//
 // AccessExpireLRUCache.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPSessionFactory.h
 //
 // Library: Net

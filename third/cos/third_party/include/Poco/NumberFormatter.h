@@ -1,4 +1,4 @@
-﻿//
+//
 // NumberFormatter.h
 //
 // Library: Foundation

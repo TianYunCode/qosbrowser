@@ -1,4 +1,4 @@
-﻿//
+//
 // MapConfiguration.h
 //
 // Library: Util

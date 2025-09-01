@@ -1,4 +1,4 @@
-﻿//
+//
 // PartHandler.h
 //
 // Library: Net

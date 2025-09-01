@@ -1,4 +1,4 @@
-﻿//
+//
 // ConfigurationView.h
 //
 // Library: Util

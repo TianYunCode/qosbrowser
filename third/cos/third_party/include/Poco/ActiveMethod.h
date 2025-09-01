@@ -1,4 +1,4 @@
-﻿//
+//
 // ActiveMethod.h
 //
 // Library: Foundation

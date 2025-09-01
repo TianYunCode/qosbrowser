@@ -1,4 +1,4 @@
-﻿//
+//
 // UDPServerParams.h
 //
 // Library: Net

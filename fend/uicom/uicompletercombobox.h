@@ -1,4 +1,4 @@
-﻿#ifndef UICOMPLETERCOMBOBOX_H
+#ifndef UICOMPLETERCOMBOBOX_H
 #define UICOMPLETERCOMBOBOX_H
 
 #include <QComboBox>

@@ -1,4 +1,4 @@
-﻿//
+//
 // InvalidCertificateHandler.h
 //
 // Library: NetSSL_OpenSSL

@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "middle/manglobal.h"
 #include "config/exceptions.h"

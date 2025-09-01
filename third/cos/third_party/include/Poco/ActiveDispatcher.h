@@ -1,4 +1,4 @@
-﻿//
+//
 // ActiveDispatcher.h
 //
 // Library: Foundation

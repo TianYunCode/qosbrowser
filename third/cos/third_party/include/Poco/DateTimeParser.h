@@ -1,4 +1,4 @@
-﻿//
+//
 // DateTimeParser.h
 //
 // Library: Foundation

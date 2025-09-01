@@ -1,4 +1,4 @@
-﻿//
+//
 // SocketImpl.h
 //
 // Library: Net

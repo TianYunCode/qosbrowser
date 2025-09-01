@@ -1,4 +1,4 @@
-﻿//
+//
 // NetSSL.h
 //
 // Library: NetSSL_OpenSSL

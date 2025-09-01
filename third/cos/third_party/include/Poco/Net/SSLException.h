@@ -1,4 +1,4 @@
-﻿//
+//
 // SSLException.h
 //
 // Library: NetSSL_OpenSSL

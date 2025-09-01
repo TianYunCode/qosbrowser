@@ -1,4 +1,4 @@
-﻿//
+//
 // ServerApplication.h
 //
 // Library: Util

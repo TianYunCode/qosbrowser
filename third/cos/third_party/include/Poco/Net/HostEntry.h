@@ -1,4 +1,4 @@
-﻿//
+//
 // HostEntry.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // SMTPChannel.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // KeyConsoleHandler.h
 //
 // Library: NetSSL_OpenSSL

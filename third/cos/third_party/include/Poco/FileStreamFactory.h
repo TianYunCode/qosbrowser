@@ -1,4 +1,4 @@
-﻿//
+//
 // FileStreamFactory.h
 //
 // Library: Foundation

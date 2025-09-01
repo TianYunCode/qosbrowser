@@ -1,4 +1,4 @@
-﻿//
+//
 // ArchiveStrategy.h
 //
 // Library: Data

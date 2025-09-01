@@ -1,4 +1,4 @@
-﻿#ifndef COS_API_H
+#ifndef COS_API_H
 #define COS_API_H
 
 #include "op/bucket_op.h"

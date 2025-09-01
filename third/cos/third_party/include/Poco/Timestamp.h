@@ -1,4 +1,4 @@
-﻿//
+//
 // Timestamp.h
 //
 // Library: Foundation

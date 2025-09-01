@@ -1,4 +1,4 @@
-﻿//
+//
 // LayeredConfiguration.h
 //
 // Library: Util

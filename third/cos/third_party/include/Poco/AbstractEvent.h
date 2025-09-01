@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractEvent.h
 //
 // Library: Foundation

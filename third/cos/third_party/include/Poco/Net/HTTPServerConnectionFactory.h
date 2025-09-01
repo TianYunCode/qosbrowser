@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPServerConnectionFactory.h
 //
 // Library: Net

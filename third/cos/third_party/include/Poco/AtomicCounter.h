@@ -1,4 +1,4 @@
-﻿//
+//
 // AtomicCounter.h
 //
 // Library: Foundation

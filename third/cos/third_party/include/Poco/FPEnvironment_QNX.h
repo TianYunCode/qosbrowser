@@ -1,4 +1,4 @@
-﻿//
+//
 // FPEnvironment_QNX.h
 //
 // Library: Foundation

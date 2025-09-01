@@ -1,4 +1,4 @@
-﻿//
+//
 // Path.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // DynamicDateTime.h
 //
 // Library: Data

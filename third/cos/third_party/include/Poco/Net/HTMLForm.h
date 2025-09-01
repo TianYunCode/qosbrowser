@@ -1,4 +1,4 @@
-﻿//
+//
 // HTMLForm.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // Mutex.h
 //
 // Library: Foundation

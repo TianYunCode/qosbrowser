@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPHeaderStream.h
 //
 // Library: Net

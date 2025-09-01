@@ -1,4 +1,4 @@
-﻿//
+//
 // BufferAllocator.h
 //
 // Library: Foundation

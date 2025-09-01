@@ -1,4 +1,4 @@
-﻿//
+//
 // SocketStream.h
 //
 // Library: Net

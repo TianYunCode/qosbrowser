@@ -1,4 +1,4 @@
-﻿//
+//
 // Bugcheck.h
 //
 // Library: Foundation

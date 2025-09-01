@@ -1,4 +1,4 @@
-﻿//
+//
 // Alignment.h
 //
 // Library: Foundation

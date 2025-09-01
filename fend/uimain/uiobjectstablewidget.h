@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "middle/models/cloudmodels.h"
 #include <QWidget>

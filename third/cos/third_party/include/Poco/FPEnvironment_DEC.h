@@ -1,4 +1,4 @@
-﻿//
+//
 // FPEnvironment_DEC.h
 //
 // Library: Foundation

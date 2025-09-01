@@ -1,4 +1,4 @@
-﻿//
+//
 // SQLiteException.h
 //
 // Library: Data/SQLite

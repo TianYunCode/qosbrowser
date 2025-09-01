@@ -1,4 +1,4 @@
-﻿//
+//
 // RecordSet.h
 //
 // Library: Data

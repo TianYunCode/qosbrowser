@@ -1,4 +1,4 @@
-﻿//
+//
 // SocketAcceptor.h
 //
 // Library: Net

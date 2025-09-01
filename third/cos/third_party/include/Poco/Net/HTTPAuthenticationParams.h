@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPAuthenticationParams.h
 //
 // Library: Net

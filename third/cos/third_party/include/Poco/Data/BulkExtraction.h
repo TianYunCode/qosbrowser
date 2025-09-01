@@ -1,4 +1,4 @@
-﻿//
+//
 // BulkExtraction.h
 //
 // Library: Data

@@ -1,4 +1,4 @@
-﻿//
+//
 // ParseHandler.h
 //
 // Library: JSON

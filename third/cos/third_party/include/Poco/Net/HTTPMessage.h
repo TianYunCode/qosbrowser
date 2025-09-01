@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPMessage.h
 //
 // Library: Net

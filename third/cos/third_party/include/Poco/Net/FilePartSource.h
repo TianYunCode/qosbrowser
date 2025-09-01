@@ -1,4 +1,4 @@
-﻿//
+//
 // FilePartSource.h
 //
 // Library: Net

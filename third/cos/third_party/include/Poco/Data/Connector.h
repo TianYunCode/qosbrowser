@@ -1,4 +1,4 @@
-﻿//
+//
 // Connector.h
 //
 // Library: Data

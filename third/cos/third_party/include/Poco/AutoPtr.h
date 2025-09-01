@@ -1,4 +1,4 @@
-﻿//
+//
 // AutoPtr.h
 //
 // Library: Foundation

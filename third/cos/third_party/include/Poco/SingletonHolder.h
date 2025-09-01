@@ -1,4 +1,4 @@
-﻿//
+//
 // SingletonHolder.h
 //
 // Library: Foundation

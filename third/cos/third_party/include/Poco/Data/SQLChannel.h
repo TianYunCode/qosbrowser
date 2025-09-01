@@ -1,4 +1,4 @@
-﻿//
+//
 // SQLChannel.h
 //
 // Library: Data

@@ -1,4 +1,4 @@
-﻿//
+//
 // Extraction.h
 //
 // Library: Data

@@ -1,4 +1,4 @@
-﻿//
+//
 // MultiSocketPoller.h
 //
 // Library: Net

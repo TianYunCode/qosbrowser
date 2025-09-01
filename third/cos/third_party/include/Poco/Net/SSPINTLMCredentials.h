@@ -1,4 +1,4 @@
-﻿//
+//
 // SSPINTLMCredentials.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // SHA1Engine.h
 //
 // Library: Foundation

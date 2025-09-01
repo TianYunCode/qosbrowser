@@ -1,4 +1,4 @@
-﻿//
+//
 // URIStreamOpener.h
 //
 // Library: Foundation

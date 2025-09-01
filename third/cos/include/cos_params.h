@@ -1,4 +1,4 @@
-﻿#ifndef COS_PARAMS_H
+#ifndef COS_PARAMS_H
 #define COS_PARAMS_H
 
 #include <string>

@@ -1,4 +1,4 @@
-﻿//
+//
 // Timespan.h
 //
 // Library: Foundation

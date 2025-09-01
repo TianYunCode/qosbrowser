@@ -1,4 +1,4 @@
-﻿//
+//
 // PrivateKeyFactoryMgr.h
 //
 // Library: NetSSL_OpenSSL

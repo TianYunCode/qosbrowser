@@ -1,4 +1,4 @@
-﻿//
+//
 // FIFOEvent.h
 //
 // Library: Foundation

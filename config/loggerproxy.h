@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "bend/dao/logs/basiclogger.h"
 #include "config/globals.h"

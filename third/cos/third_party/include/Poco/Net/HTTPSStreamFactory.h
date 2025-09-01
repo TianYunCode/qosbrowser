@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPSStreamFactory.h
 //
 // Library: NetSSL_OpenSSL

@@ -1,4 +1,4 @@
-﻿//
+//
 // Date.h
 //
 // Library: Data

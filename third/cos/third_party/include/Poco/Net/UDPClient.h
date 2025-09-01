@@ -1,4 +1,4 @@
-﻿//
+//
 // UDPClient.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // OAuth20Credentials.h
 //
 // Library: Net

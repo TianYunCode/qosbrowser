@@ -1,4 +1,4 @@
-﻿//
+//
 // Config.h
 //
 // Library: Foundation

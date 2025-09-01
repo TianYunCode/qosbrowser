@@ -1,4 +1,4 @@
-﻿//
+//
 // DateTimeFormatter.h
 //
 // Library: Foundation

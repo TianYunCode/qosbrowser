@@ -1,4 +1,4 @@
-﻿//
+//
 // OptionException.h
 //
 // Library: Util

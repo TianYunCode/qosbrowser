@@ -1,4 +1,4 @@
-﻿//
+//
 // LoggingSubsystem.h
 //
 // Library: Util

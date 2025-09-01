@@ -1,4 +1,4 @@
-﻿//
+//
 // OpenSSLInitializer.h
 //
 // Library: Crypto

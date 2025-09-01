@@ -1,4 +1,4 @@
-﻿//
+//
 // Notifier.h
 //
 // Library: Data/SQLite

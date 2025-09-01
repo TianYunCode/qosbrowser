@@ -1,4 +1,4 @@
-﻿#include "fend/uilogin/uilogindialog.h"
+#include "fend/uilogin/uilogindialog.h"
 #include "fend/uimain/uimain.h"
 #include "middle/manglobal.h"
 

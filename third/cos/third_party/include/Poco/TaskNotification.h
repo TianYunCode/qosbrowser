@@ -1,4 +1,4 @@
-﻿//
+//
 // TaskNotification.h
 //
 // Library: Foundation

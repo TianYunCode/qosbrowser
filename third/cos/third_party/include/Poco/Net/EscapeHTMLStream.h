@@ -1,4 +1,4 @@
-﻿//
+//
 // EscapeHTMLStream.h
 //
 // Library: Net

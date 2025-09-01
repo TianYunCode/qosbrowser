@@ -1,4 +1,4 @@
-﻿//
+//
 // StreamConverter.h
 //
 // Library: Foundation

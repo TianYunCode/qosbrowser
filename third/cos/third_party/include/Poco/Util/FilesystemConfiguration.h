@@ -1,4 +1,4 @@
-﻿//
+//
 // FilesystemConfiguration.h
 //
 // Library: Util

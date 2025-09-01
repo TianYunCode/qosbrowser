@@ -1,4 +1,4 @@
-﻿#include "uicompletercombobox.h"
+#include "uicompletercombobox.h"
 
 UiCompleterComboBox::UiCompleterComboBox(QWidget *parent) : QComboBox(parent) {
     // 设置下拉框的样式

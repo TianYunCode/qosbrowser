@@ -1,4 +1,4 @@
-﻿//
+//
 // ParallelSocketAcceptor.h
 //
 // Library: Net

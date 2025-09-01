@@ -1,4 +1,4 @@
-﻿//
+//
 // X509Certificate.h
 //
 // Library: Crypto

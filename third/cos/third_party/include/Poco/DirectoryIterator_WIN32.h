@@ -1,4 +1,4 @@
-﻿//
+//
 // DirectoryIterator_WIN32.h
 //
 // Library: Foundation

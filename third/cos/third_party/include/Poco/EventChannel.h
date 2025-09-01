@@ -1,4 +1,4 @@
-﻿//
+//
 // EventChannel.h
 //
 // Library: Foundation

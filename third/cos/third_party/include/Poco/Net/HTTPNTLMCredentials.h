@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPNTLMCredentials.h
 //
 // Library: Net

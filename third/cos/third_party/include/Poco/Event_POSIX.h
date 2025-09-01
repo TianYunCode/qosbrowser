@@ -1,4 +1,4 @@
-﻿//
+//
 // Event_POSIX.h
 //
 // Library: Foundation

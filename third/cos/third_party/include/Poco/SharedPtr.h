@@ -1,4 +1,4 @@
-﻿//
+//
 // SharedPtr.h
 //
 // Library: Foundation

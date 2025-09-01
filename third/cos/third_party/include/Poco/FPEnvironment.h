@@ -1,4 +1,4 @@
-﻿//
+//
 // FPEnvironment.h
 //
 // Library: Foundation

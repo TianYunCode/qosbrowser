@@ -1,4 +1,4 @@
-﻿//
+//
 // RecursiveDirectoryIteratorImpl.h
 //
 // Library: Foundation

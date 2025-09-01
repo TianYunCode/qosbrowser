@@ -1,4 +1,4 @@
-﻿//
+//
 // PooledSessionImpl.h
 //
 // Library: Data

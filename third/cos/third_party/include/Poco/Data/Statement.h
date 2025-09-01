@@ -1,4 +1,4 @@
-﻿//
+//
 // Statement.h
 //
 // Library: Data

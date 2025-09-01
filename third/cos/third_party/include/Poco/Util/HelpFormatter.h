@@ -1,4 +1,4 @@
-﻿//
+//
 // HelpFormatter.h
 //
 // Library: Util
