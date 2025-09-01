@@ -1,4 +1,4 @@
-﻿//
+//
 // AccessExpirationDecorator.h
 //
 // Library: Foundation

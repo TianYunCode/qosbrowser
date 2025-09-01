@@ -1,4 +1,4 @@
-﻿//
+//
 // WinService.h
 //
 // Library: Util

@@ -1,4 +1,4 @@
-﻿//
+//
 // TypeHandler.h
 //
 // Library: Data

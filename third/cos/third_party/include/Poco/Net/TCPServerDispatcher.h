@@ -1,4 +1,4 @@
-﻿//
+//
 // TCPServerDispatcher.h
 //
 // Library: Net

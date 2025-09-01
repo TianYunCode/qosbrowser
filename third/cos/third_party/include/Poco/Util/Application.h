@@ -1,4 +1,4 @@
-﻿//
+//
 // Application.h
 //
 // Library: Util

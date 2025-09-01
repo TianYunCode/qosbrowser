@@ -1,4 +1,4 @@
-﻿//
+//
 // URI.h
 //
 // Library: Foundation

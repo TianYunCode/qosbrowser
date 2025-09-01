@@ -1,4 +1,4 @@
-﻿//
+//
 // ECDSADigestEngine.h
 //
 //

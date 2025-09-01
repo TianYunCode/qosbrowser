@@ -1,4 +1,4 @@
-﻿//
+//
 // DataException.h
 //
 // Library: Data

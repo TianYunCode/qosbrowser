@@ -1,4 +1,4 @@
-﻿//
+//
 // Column.h
 //
 // Library: Data

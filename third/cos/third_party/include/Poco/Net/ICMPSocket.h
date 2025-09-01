@@ -1,4 +1,4 @@
-﻿//
+//
 // ICMPSocket.h
 //
 // Library: Net

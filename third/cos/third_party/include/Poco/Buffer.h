@@ -1,4 +1,4 @@
-﻿//
+//
 // Buffer.h
 //
 // Library: Foundation

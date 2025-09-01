@@ -1,4 +1,4 @@
-﻿//
+//
 // ICMPEventArgs.h
 //
 // Library: Net

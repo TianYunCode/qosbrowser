@@ -1,4 +1,4 @@
-﻿//
+//
 // MailStream.h
 //
 // Library: Net

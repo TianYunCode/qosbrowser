@@ -1,4 +1,4 @@
-﻿//
+//
 // MetaObject.h
 //
 // Library: Foundation

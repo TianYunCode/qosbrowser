@@ -1,4 +1,4 @@
-﻿//
+//
 // DateTime.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // VarHolder.h
 //
 // Library: Foundation

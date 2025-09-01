@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPSClientSession.h
 //
 // Library: NetSSL_OpenSSL

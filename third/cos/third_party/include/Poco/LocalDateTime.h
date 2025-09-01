@@ -1,4 +1,4 @@
-﻿//
+//
 // LocalDateTime.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // UniqueAccessExpireCache.h
 //
 // Library: Foundation

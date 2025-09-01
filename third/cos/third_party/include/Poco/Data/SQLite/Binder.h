@@ -1,4 +1,4 @@
-﻿//
+//
 // Binder.h
 //
 // Library: Data/SQLite

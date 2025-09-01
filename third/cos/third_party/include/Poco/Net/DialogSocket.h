@@ -1,4 +1,4 @@
-﻿//
+//
 // DialogSocket.h
 //
 // Library: Net

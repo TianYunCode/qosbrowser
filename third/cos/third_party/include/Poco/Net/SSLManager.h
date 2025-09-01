@@ -1,4 +1,4 @@
-﻿//
+//
 // SSLManager.h
 //
 // Library: NetSSL_OpenSSL

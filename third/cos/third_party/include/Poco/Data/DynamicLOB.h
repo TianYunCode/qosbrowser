@@ -1,4 +1,4 @@
-﻿//
+//
 // DynamicLOB.h
 //
 // Library: Data

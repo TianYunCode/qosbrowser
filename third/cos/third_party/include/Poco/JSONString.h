@@ -1,4 +1,4 @@
-﻿//
+//
 // JSONString.h
 //
 // Library: Foundation

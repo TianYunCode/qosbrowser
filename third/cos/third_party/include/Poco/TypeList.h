@@ -1,4 +1,4 @@
-﻿//
+//
 // TypeList.h
 //
 // Library: Foundation

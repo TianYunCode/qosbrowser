@@ -1,4 +1,4 @@
-﻿//
+//
 // File_VX.h
 //
 // Library: Foundation

@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>375</width>
-    <height>429</height>
+    <width>289</width>
+    <height>185</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,50 +16,22 @@
   <property name="styleSheet">
    <string notr="true"/>
   </property>
-  <layout class="QVBoxLayout" name="verticalLayout">
-   <property name="leftMargin">
-    <number>30</number>
-   </property>
-   <property name="rightMargin">
-    <number>30</number>
-   </property>
-   <property name="bottomMargin">
-    <number>20</number>
-   </property>
-   <item>
+  <layout class="QFormLayout" name="formLayout">
+   <item row="0" column="0">
     <widget class="QLabel" name="labelLoginName">
      <property name="text">
-      <string>登录名</string>
+      <string/>
      </property>
     </widget>
    </item>
-   <item>
-    <widget class="UiComboLine" name="lineLoginName"/>
-   </item>
-   <item>
-    <spacer name="verticalSpacer">
-     <property name="orientation">
-      <enum>Qt::Vertical</enum>
-     </property>
-     <property name="sizeHint" stdset="0">
-      <size>
-       <width>20</width>
-       <height>40</height>
-      </size>
-     </property>
-    </spacer>
-   </item>
-   <item>
-    <widget class="QLabel" name="labelSecretId">
-     <property name="text">
-      <string>Sectet&amp;Id</string>
-     </property>
-     <property name="buddy">
-      <cstring>lineSecretId</cstring>
+   <item row="0" column="1">
+    <widget class="UiComboLine" name="lineLoginName">
+     <property name="placeholderText">
+      <string>请输入登录名</string>
      </property>
     </widget>
    </item>
-   <item>
+   <item row="1" column="1">
     <widget class="QLineEdit" name="lineSecretId">
      <property name="minimumSize">
       <size>
@@ -67,32 +39,12 @@
        <height>0</height>
       </size>
      </property>
-    </widget>
-   </item>
-   <item>
-    <spacer name="verticalSpacer_3">
-     <property name="orientation">
-      <enum>Qt::Vertical</enum>
-     </property>
-     <property name="sizeHint" stdset="0">
-      <size>
-       <width>20</width>
-       <height>40</height>
-      </size>
-     </property>
-    </spacer>
-   </item>
-   <item>
-    <widget class="QLabel" name="labelSecretKey">
-     <property name="text">
-      <string>Sectet&amp;Key</string>
-     </property>
-     <property name="buddy">
-      <cstring>lineSecretKey</cstring>
+     <property name="placeholderText">
+      <string>请输入SecretId</string>
      </property>
     </widget>
    </item>
-   <item>
+   <item row="2" column="1">
     <widget class="QLineEdit" name="lineSecretKey">
      <property name="minimumSize">
       <size>
@@ -101,31 +53,14 @@
       </size>
      </property>
      <property name="echoMode">
-      <enum>QLineEdit::Password</enum>
+      <enum>QLineEdit::EchoMode::Password</enum>
+     </property>
+     <property name="placeholderText">
+      <string>请输入SecretKey</string>
      </property>
     </widget>
    </item>
-   <item>
-    <spacer name="verticalSpacer_4">
-     <property name="orientation">
-      <enum>Qt::Vertical</enum>
-     </property>
-     <property name="sizeHint" stdset="0">
-      <size>
-       <width>20</width>
-       <height>40</height>
-      </size>
-     </property>
-    </spacer>
-   </item>
-   <item>
-    <widget class="QLabel" name="labelRemark">
-     <property name="text">
-      <string>备注</string>
-     </property>
-    </widget>
-   </item>
-   <item>
+   <item row="3" column="1">
     <widget class="QLineEdit" name="lineRemark">
      <property name="minimumSize">
       <size>
@@ -133,16 +68,36 @@
        <height>0</height>
       </size>
      </property>
-    </widget>
-   </item>
-   <item>
-    <widget class="QCheckBox" name="checkSaveSection">
-     <property name="text">
-      <string>记住会话</string>
+     <property name="placeholderText">
+      <string>请输入备注</string>
      </property>
     </widget>
    </item>
-   <item>
+   <item row="4" column="0" colspan="2">
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Orientation::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkSaveSection">
+       <property name="text">
+        <string>记住会话</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="5" column="0" colspan="2">
     <widget class="UiPushButton" name="btnLogin">
      <property name="minimumSize">
       <size>
@@ -154,19 +109,6 @@
       <string>登录</string>
      </property>
     </widget>
-   </item>
-   <item>
-    <spacer name="verticalSpacer_6">
-     <property name="orientation">
-      <enum>Qt::Vertical</enum>
-     </property>
-     <property name="sizeHint" stdset="0">
-      <size>
-       <width>20</width>
-       <height>22</height>
-      </size>
-     </property>
-    </spacer>
    </item>
   </layout>
  </widget>

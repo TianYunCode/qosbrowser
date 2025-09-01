@@ -1,4 +1,4 @@
-﻿//
+//
 // StreamChannel.h
 //
 // Library: Foundation

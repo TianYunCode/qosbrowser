@@ -1,4 +1,4 @@
-﻿//
+//
 // DataURIStreamFactory.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // Thread_WINCE.h
 //
 // Library: Foundation

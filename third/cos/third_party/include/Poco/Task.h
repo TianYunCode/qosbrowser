@@ -1,4 +1,4 @@
-﻿//
+//
 // Task.h
 //
 // Library: Foundation

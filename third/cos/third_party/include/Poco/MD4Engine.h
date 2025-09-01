@@ -1,4 +1,4 @@
-﻿//
+//
 // MD4Engine.h
 //
 // Library: Foundation

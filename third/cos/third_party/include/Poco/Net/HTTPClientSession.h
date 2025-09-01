@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPClientSession.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // Thread_POSIX.h
 //
 // Library: Foundation

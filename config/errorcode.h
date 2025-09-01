@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #define EC_100000 "100000"  // 系统
 #define EC_200000 "200000"  // 用户

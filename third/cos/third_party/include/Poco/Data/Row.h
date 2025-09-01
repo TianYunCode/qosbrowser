@@ -1,4 +1,4 @@
-﻿//
+//
 // Row.h
 //
 // Library: Data

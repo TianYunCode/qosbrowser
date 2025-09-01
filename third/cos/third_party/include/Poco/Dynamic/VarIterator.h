@@ -1,4 +1,4 @@
-﻿//
+//
 // VarIterator.h
 //
 // Library: Foundation

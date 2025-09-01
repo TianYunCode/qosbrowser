@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPResponse.h
 //
 // Library: Net

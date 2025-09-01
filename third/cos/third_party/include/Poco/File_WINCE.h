@@ -1,4 +1,4 @@
-﻿//
+//
 // File_WIN32U.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // PartStore.h
 //
 // Library: Net

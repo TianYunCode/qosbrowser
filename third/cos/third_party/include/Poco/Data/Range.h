@@ -1,4 +1,4 @@
-﻿//
+//
 // Range.h
 //
 // Library: Data

@@ -1,4 +1,4 @@
-﻿//
+//
 // CertificateHandlerFactory.h
 //
 // Library: NetSSL_OpenSSL

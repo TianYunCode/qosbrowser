@@ -1,4 +1,4 @@
-﻿//
+//
 // SMTPClientSession.h
 //
 // Library: Net

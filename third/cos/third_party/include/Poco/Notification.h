@@ -1,4 +1,4 @@
-﻿//
+//
 // Notification.h
 //
 // Library: Foundation

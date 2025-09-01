@@ -1,4 +1,4 @@
-﻿//
+//
 // NotificationQueue.h
 //
 // Library: Foundation

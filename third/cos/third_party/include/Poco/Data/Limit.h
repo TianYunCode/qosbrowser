@@ -1,4 +1,4 @@
-﻿//
+//
 // Limit.h
 //
 // Library: Data

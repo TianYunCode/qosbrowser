@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPServerResponseImpl.h
 //
 // Library: Net

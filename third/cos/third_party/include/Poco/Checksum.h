@@ -1,4 +1,4 @@
-﻿//
+//
 // Checksum.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // FPEnvironment_DUMMY.h
 //
 // Library: Foundation

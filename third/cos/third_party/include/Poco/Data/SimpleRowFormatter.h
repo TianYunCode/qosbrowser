@@ -1,4 +1,4 @@
-﻿//
+//
 // RowFormatter.h
 //
 // Library: Data

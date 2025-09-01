@@ -1,4 +1,4 @@
-﻿//
+//
 // ServerSocket.h
 //
 // Library: Net

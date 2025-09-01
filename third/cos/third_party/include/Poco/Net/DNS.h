@@ -1,4 +1,4 @@
-﻿//
+//
 // DNS.h
 //
 // Library: Net

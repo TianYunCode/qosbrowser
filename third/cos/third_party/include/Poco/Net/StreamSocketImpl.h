@@ -1,4 +1,4 @@
-﻿//
+//
 // StreamSocketImpl.h
 //
 // Library: Net

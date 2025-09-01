@@ -1,4 +1,4 @@
-﻿#pragma execution_character_set("utf-8")
+#pragma execution_character_set("utf-8")
 
 #include "uimessagebox.h"
 #include "fend/uicom/uipushbutton.h"

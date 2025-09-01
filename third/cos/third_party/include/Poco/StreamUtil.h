@@ -1,4 +1,4 @@
-﻿//
+//
 // StreamUtil.h
 //
 // Library: Foundation

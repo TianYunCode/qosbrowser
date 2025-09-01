@@ -1,4 +1,4 @@
-﻿//
+//
 // ActiveResult.h
 //
 // Library: Foundation

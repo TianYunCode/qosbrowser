@@ -1,4 +1,4 @@
-﻿//
+//
 // UniqueAccessExpireLRUCache.h
 //
 // Library: Foundation

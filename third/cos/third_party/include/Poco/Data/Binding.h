@@ -1,4 +1,4 @@
-﻿//
+//
 // Binding.h
 //
 // Library: Data

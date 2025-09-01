@@ -1,4 +1,4 @@
-﻿//
+//
 // POP3ClientSession.h
 //
 // Library: Net

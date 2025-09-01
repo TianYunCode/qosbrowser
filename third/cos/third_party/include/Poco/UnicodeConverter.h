@@ -1,4 +1,4 @@
-﻿//
+//
 // UnicodeConverter.h
 //
 // Library: Foundation

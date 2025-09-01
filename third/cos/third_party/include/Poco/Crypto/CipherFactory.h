@@ -1,4 +1,4 @@
-﻿//
+//
 // CipherFactory.h
 //
 // Library: Crypto

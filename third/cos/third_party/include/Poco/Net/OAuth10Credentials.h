@@ -1,4 +1,4 @@
-﻿//
+//
 // OAuth10Credentials.h
 //
 // Library: Net

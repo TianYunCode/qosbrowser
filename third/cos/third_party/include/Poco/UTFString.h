@@ -1,4 +1,4 @@
-﻿//
+//
 // UTFString.h
 //
 // Library: Foundation

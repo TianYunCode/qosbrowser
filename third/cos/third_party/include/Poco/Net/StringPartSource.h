@@ -1,4 +1,4 @@
-﻿//
+//
 // StringPartSource.h
 //
 // Library: Net

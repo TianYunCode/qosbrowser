@@ -1,4 +1,4 @@
-﻿//
+//
 // PrivateKeyPassphraseHandler.h
 //
 // Library: NetSSL_OpenSSL

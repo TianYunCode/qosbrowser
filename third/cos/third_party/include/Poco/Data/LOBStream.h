@@ -1,4 +1,4 @@
-﻿//
+//
 // LOBStream.h
 //
 // Library: Data

@@ -1,4 +1,4 @@
-﻿//
+//
 // OptionSet.h
 //
 // Library: Util

@@ -1,4 +1,4 @@
-﻿//
+//
 // DatagramSocket.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // Exception.h
 //
 // Library: Foundation

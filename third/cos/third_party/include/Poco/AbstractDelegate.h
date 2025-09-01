@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractDelegate.h
 //
 // Library: Foundation

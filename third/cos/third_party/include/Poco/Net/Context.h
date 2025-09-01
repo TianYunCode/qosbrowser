@@ -1,4 +1,4 @@
-﻿//
+//
 // Context.h
 //
 // Library: NetSSL_OpenSSL

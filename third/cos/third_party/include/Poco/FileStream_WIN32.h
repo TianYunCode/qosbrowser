@@ -1,4 +1,4 @@
-﻿//
+//
 // FileStream_WIN32.h
 //
 // Library: Foundation

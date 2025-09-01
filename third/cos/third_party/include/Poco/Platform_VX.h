@@ -1,4 +1,4 @@
-﻿//
+//
 // Platform_VX.h
 //
 // Library: Foundation

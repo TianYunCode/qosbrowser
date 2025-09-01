@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPDigestCredentials.h
 //
 // Library: Net

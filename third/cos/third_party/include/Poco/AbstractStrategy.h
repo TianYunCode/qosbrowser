@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractStrategy.h
 //
 // Library: Foundation

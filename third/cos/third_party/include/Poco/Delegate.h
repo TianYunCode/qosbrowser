@@ -1,4 +1,4 @@
-﻿//
+//
 // Delegate.h
 //
 // Library: Foundation

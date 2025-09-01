@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPFixedLengthStream.h
 //
 // Library: Net

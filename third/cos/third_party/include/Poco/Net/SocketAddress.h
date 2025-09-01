@@ -1,4 +1,4 @@
-﻿//
+//
 // SocketAddress.h
 //
 // Library: Net

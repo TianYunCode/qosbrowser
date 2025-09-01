@@ -1,4 +1,4 @@
-﻿//
+//
 // WinRegistryConfiguration.h
 //
 // Library: Util

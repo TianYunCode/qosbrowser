@@ -1,4 +1,4 @@
-﻿//
+//
 // Activity.h
 //
 // Library: Foundation

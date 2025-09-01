@@ -1,4 +1,4 @@
-﻿//
+//
 // Thread_WIN32.h
 //
 // Library: Foundation

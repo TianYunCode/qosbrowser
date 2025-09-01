@@ -1,4 +1,4 @@
-﻿//
+//
 // SocketReactor.h
 //
 // Library: Net

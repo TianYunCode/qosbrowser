@@ -1,4 +1,4 @@
-﻿//
+//
 // EventLogChannel.h
 //
 // Library: Foundation

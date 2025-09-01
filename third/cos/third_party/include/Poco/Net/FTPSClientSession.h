@@ -1,4 +1,4 @@
-﻿//
+//
 // FTPSClientSession.h
 //
 // Library: NetSSL_OpenSSL

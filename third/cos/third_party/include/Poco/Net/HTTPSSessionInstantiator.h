@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPSSessionInstantiator.h
 //
 // Library: NetSSL_OpenSSL

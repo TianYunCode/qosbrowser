@@ -1,4 +1,4 @@
-﻿//
+//
 // SimpleFileChannel.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // NameValueCollection.h
 //
 // Library: Net

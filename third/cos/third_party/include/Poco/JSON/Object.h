@@ -1,4 +1,4 @@
-﻿//
+//
 // Object.h
 //
 // Library: JSON

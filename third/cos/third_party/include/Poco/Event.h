@@ -1,4 +1,4 @@
-﻿//
+//
 // Event.h
 //
 // Library: Foundation

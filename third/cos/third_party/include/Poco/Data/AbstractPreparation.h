@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractPreparation.h
 //
 // Library: Data

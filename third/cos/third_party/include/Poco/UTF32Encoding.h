@@ -1,4 +1,4 @@
-﻿//
+//
 // UTF32Encoding.h
 //
 // Library: Foundation

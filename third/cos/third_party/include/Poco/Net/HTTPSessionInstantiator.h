@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPSessionInstantiator.h
 //
 // Library: Net

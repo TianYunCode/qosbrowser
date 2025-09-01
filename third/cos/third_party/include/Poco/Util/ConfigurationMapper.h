@@ -1,4 +1,4 @@
-﻿//
+//
 // ConfigurationMapper.h
 //
 // Library: Util

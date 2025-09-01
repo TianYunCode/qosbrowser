@@ -1,4 +1,4 @@
-﻿//
+//
 // UDPHandler.h
 //
 // Library: Net

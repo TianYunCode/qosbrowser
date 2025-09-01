@@ -1,4 +1,4 @@
-﻿//
+//
 // PropertyFileConfiguration.h
 //
 // Library: Util

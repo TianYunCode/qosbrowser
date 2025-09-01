@@ -1,4 +1,4 @@
-﻿//
+//
 // StatementCreator.h
 //
 // Library: Data

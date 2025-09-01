@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractPriorityDelegate.h
 //
 // Library: Foundation

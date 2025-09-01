@@ -1,4 +1,4 @@
-﻿//
+//
 // Pair.h
 //
 // Library: Foundation

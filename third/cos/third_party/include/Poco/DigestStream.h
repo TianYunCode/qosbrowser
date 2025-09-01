@@ -1,4 +1,4 @@
-﻿//
+//
 // DigestStream.h
 //
 // Library: Foundation

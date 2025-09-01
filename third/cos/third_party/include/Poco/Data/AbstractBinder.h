@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractBinder.h
 //
 // Library: Data

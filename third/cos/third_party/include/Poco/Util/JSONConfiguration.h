@@ -1,4 +1,4 @@
-﻿//
+//
 // JSONConfiguration.h
 //
 // Library: Util

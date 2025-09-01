@@ -1,4 +1,4 @@
-﻿//
+//
 // PatternFormatter.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // NetworkInterface.h
 //
 // Library: Net

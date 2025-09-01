@@ -1,4 +1,4 @@
-﻿//
+//
 // String.h
 //
 // Library: Foundation

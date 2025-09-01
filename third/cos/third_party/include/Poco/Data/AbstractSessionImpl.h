@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractSessionImpl.h
 //
 // Library: Data

@@ -1,4 +1,4 @@
-﻿//
+//
 // Var.h
 //
 // Library: Foundation

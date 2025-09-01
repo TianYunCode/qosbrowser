@@ -1,4 +1,4 @@
-﻿//
+//
 // URIStreamFactory.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // RowFilter.h
 //
 // Library: Data

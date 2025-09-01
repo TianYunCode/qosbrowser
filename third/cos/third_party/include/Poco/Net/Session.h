@@ -1,4 +1,4 @@
-﻿//
+//
 // Session.h
 //
 // Library: NetSSL_OpenSSL

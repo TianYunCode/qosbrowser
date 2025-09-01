@@ -1,4 +1,4 @@
-﻿//
+//
 // Transaction.h
 //
 // Library: Data

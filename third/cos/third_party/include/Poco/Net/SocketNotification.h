@@ -1,4 +1,4 @@
-﻿//
+//
 // SocketNotification.h
 //
 // Library: Net

@@ -1,4 +1,4 @@
-﻿//
+//
 // Data.h
 //
 // Library: Data

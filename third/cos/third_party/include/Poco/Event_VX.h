@@ -1,4 +1,4 @@
-﻿//
+//
 // Event_VX.h
 //
 // Library: Foundation

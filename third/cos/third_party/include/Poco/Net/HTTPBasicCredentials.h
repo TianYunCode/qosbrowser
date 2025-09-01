@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPBasicCredentials.h
 //
 // Library: Net

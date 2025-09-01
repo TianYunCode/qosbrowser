@@ -1,4 +1,4 @@
-﻿//
+//
 // RemoteSyslogListener.h
 //
 // Library: Net

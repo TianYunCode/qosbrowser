@@ -1,4 +1,4 @@
-﻿//
+//
 // ScopedLock.h
 //
 // Library: Foundation

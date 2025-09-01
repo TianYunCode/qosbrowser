@@ -1,4 +1,4 @@
-﻿//
+//
 // Unicode.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // FileStream_POSIX.h
 //
 // Library: Foundation

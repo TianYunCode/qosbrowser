@@ -1,4 +1,4 @@
-﻿//
+//
 // ParallelSocketReactor.h
 //
 // Library: Net

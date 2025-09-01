@@ -1,4 +1,4 @@
-﻿//
+//
 // MetaColumn.h
 //
 // Library: Data

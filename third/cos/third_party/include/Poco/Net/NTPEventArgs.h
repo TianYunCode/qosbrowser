@@ -1,4 +1,4 @@
-﻿//
+//
 // NTPEventArgs.h
 //
 // Library: Net

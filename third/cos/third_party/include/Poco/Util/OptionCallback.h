@@ -1,4 +1,4 @@
-﻿//
+//
 // OptionCallback.h
 //
 // Library: Util

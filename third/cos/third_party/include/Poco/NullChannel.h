@@ -1,4 +1,4 @@
-﻿//
+//
 // NullChannel.h
 //
 // Library: Foundation

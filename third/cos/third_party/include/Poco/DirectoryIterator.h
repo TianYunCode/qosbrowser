@@ -1,4 +1,4 @@
-﻿//
+//
 // DirectoryIterator.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿//
+//
 // SecureStreamSocket.h
 //
 // Library: NetSSL_OpenSSL

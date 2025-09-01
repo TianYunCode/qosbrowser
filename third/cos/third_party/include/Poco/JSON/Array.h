@@ -1,4 +1,4 @@
-﻿//
+//
 // Array.h
 //
 // Library: JSON

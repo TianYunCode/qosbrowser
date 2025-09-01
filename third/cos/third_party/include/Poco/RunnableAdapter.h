@@ -1,4 +1,4 @@
-﻿//
+//
 // RunnableAdapter.h
 //
 // Library: Foundation

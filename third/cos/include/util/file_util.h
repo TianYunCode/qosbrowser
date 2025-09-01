@@ -1,4 +1,4 @@
-﻿#ifndef FILE_UTIL_H
+#ifndef FILE_UTIL_H
 #define FILE_UTIL_H
 #include <stdint.h>
 

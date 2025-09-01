@@ -1,4 +1,4 @@
-﻿//
+//
 // SQLiteStatementImpl.h
 //
 // Library: Data/SQLite

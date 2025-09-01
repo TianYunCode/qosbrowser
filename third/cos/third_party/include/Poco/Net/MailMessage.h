@@ -1,4 +1,4 @@
-﻿//
+//
 // MailMessage.h
 //
 // Library: Net

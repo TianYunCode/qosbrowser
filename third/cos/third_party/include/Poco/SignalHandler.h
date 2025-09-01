@@ -1,4 +1,4 @@
-﻿//
+//
 // SignalHandler.h
 //
 // Library: Foundation

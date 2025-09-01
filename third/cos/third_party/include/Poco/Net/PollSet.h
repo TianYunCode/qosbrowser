@@ -1,4 +1,4 @@
-﻿//
+//
 // PollSet.h
 //
 // Library: Net

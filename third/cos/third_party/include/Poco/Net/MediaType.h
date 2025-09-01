@@ -1,4 +1,4 @@
-﻿//
+//
 // MediaType.h
 //
 // Library: Net

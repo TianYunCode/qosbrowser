@@ -1,4 +1,4 @@
-﻿//
+//
 // JSONException.h
 //
 // Library: JSON

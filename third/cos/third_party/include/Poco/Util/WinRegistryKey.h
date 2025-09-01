@@ -1,4 +1,4 @@
-﻿//
+//
 // WinRegistryKey.h
 //
 // Library: Util

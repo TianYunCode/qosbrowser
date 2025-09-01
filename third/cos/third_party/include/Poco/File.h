@@ -1,4 +1,4 @@
-﻿//
+//
 // File.h
 //
 // Library: Foundation

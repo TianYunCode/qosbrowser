@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPServerRequest.h
 //
 // Library: Net

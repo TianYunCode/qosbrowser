@@ -1,4 +1,4 @@
-﻿//
+//
 // RSACipherImpl.h
 //
 // Library: Crypto

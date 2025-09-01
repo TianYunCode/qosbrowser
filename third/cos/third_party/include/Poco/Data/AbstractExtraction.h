@@ -1,4 +1,4 @@
-﻿//
+//
 // AbstractExtraction.h
 //
 // Library: Data

@@ -1,4 +1,4 @@
-﻿//
+//
 // SessionFactory.h
 //
 // Library: Data

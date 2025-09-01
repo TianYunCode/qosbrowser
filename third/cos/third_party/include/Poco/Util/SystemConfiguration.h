@@ -1,4 +1,4 @@
-﻿//
+//
 // SystemConfiguration.h
 //
 // Library: Util

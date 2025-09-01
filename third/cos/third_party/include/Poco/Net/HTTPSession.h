@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPSession.h
 //
 // Library: Net

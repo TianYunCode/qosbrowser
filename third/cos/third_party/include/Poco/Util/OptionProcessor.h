@@ -1,4 +1,4 @@
-﻿//
+//
 // OptionProcessor.h
 //
 // Library: Util

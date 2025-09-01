@@ -1,4 +1,4 @@
-﻿//
+//
 // DirectoryIterator_UNIX.h
 //
 // Library: Foundation

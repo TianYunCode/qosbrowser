@@ -1,4 +1,4 @@
-﻿#ifndef COS_CONFIG_H
+#ifndef COS_CONFIG_H
 #define COS_CONFIG_H
 
 #include <stdint.h>

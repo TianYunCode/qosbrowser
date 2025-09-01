@@ -1,4 +1,4 @@
-﻿//
+//
 // UTF8String.h
 //
 // Library: Foundation

@@ -1,4 +1,4 @@
-﻿#ifndef COS_DEFINE_H
+#ifndef COS_DEFINE_H
 #define COS_DEFINE_H
 #include <inttypes.h>
 #include <stdint.h>

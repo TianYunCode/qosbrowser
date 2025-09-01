@@ -1,4 +1,4 @@
-﻿//
+//
 // Preparation.h
 //
 // Library: Data

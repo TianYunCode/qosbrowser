@@ -1,4 +1,4 @@
-﻿#pragma execution_character_set("utf-8")
+#pragma execution_character_set("utf-8")
 
 #include "uicreatebucketdialog.h"
 #include "ui_uicreatebucketdialog.h"

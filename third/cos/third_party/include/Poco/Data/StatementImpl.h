@@ -1,4 +1,4 @@
-﻿//
+//
 // StatementImpl.h
 //
 // Library: Data

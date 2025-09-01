@@ -1,4 +1,4 @@
-﻿//
+//
 // DigestEngine.h
 //
 // Library: Crypto

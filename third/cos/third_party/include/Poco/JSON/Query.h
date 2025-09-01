@@ -1,4 +1,4 @@
-﻿//
+//
 // Query.h
 //
 // Library: JSON

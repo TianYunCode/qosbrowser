@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPBufferAllocator.h
 //
 // Library: Net

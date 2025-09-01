@@ -1,4 +1,4 @@
-﻿//
+//
 // Subsystem.h
 //
 // Library: Util

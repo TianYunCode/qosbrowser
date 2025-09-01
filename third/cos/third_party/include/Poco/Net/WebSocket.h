@@ -1,4 +1,4 @@
-﻿//
+//
 // WebSocket.h
 //
 // Library: Net

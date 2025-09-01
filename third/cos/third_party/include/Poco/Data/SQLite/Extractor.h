@@ -1,4 +1,4 @@
-﻿//
+//
 // Extractor.h
 //
 // Library: Data/SQLite

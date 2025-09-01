@@ -1,4 +1,4 @@
-﻿//
+//
 // HTTPChunkedStream.h
 //
 // Library: Net

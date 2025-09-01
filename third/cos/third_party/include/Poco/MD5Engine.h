@@ -1,4 +1,4 @@
-﻿//
+//
 // MD5Engine.h
 //
 // Library: Foundation

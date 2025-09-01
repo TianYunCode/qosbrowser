@@ -1,4 +1,4 @@
-﻿//
+//
 // LOB.h
 //
 // Library: Data

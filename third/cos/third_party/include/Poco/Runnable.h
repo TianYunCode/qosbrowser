@@ -1,4 +1,4 @@
-﻿//
+//
 // Runnable.h
 //
 // Library: Foundation

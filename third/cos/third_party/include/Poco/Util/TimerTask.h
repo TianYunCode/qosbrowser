@@ -1,4 +1,4 @@
-﻿//
+//
 // TimerTask.h
 //
 // Library: Util

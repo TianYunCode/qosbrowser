@@ -1,4 +1,4 @@
-﻿//
+//
 // Handler.h
 //
 // Library: JSON

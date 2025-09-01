@@ -1,4 +1,4 @@
-﻿//
+//
 // MulticastSocket.h
 //
 // Library: Net
