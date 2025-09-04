@@ -1,16 +1,16 @@
 #pragma once
 
-#include "middle/manglobal.h"
-#include "config/exceptions.h"
-#include "config/errorcode.h"
-#include "config/apis.h"
-#include "config/globals.h"
-#include "bend/man/mancloud.h"
-#include "middle/manmodels.h"
-#include "middle/signals/mansignals.h"
-#include "bend/gateway.h"
-#include "helper/filehelper.h"
-#include "helper/bytehelper.h"
+#include "middle/ManGlobal.h"
+#include "config/BaseException.h"
+#include "config/ErrorCode.h"
+#include "config/API.h"
+#include "config/GLOBAL.h"
+#include "bend/man/ManCloud.h"
+#include "middle/ManModels.h"
+#include "middle/signals/ManSignals.h"
+#include "bend/GateWay.h"
+#include "helper/FileHelper.h"
+#include "helper/ByteHelper.h"
 
 // #define STR QString::fromLocal8Bit
 #define STR QString

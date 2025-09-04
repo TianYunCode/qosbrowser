@@ -6,7 +6,7 @@
 namespace Ui {
 class UiDownload;
 }
-
+ 
 class UiProgressWidget;
 
 class UiDownload : public QWidget

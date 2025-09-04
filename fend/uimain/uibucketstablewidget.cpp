@@ -4,11 +4,11 @@
 #include <QJsonObject>
 #include <QAction>
 #include <QMessageBox>
-#include <fend/uidelegates/uitableitemdelegate.h>
-#include "uibucketstablewidget.h"
-#include "ui_uibucketstablewidget.h"
-#include "uicreatebucketdialog.h"
-#include "config/common.h"
+#include <fend/uidelegates/UiTableItemDelegate.h>
+#include "UiBucketsTableWidget.h"
+#include "ui_UiBucketsTableWidget.h"
+#include "UiCreateBucketDialog.h"
+#include "config/Common.h"
 
 UiBucketsTableWidget::UiBucketsTableWidget(QWidget *parent) :
     QWidget(parent),

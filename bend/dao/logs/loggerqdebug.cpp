@@ -1,12 +1,12 @@
 #pragma execution_character_set("utf-8")
 
-#include "loggerqdebug.h"
-#include "config/globals.h"
+#include "LoggerQDebug.h"
+#include "config/GLOBAL.h"
 #include <QThread>
 #include <QDebug>
 #include <QDateTime>
 #include <iostream>
-#include "config/common.h"
+#include "config/Common.h"
 
 LoggerQDebug::LoggerQDebug(QObject *parent): BasicLogger(parent)
 {

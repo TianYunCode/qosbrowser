@@ -1,10 +1,10 @@
 #pragma execution_character_set("utf-8")
 
-#include "exceptions.h"
-#include "globals.h"
-#include "helper/filehelper.h"
+#include "BaseException.h"
+#include "GLOBAL.h"
+#include "helper/FileHelper.h"
 #include <QDebug>
-#include "config/common.h"
+#include "config/Common.h"
 
 
 BaseException::BaseException(const QString &code, const QString &msg)

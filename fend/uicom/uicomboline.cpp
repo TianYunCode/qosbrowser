@@ -1,11 +1,11 @@
 #pragma execution_character_set("utf-8")
 
-#include "uicomboline.h"
+#include "UiComboLine.h"
 
 #include <QCompleter>
 #include <QListView>
 
-#include <fend/uidelegates/uitableitemdelegate.h>
+#include <fend/uidelegates/UiTableItemDelegate.h>
 
 UiComboLine::UiComboLine(QWidget *parent): QLineEdit(parent)
 {
@@ -21,22 +21,24 @@ void UiComboLine::setWords(const QStringList &words)
 {
     QCompleter* com = new QCompleter(words, this);
     QAbstractItemView* view = com->popup();
+
     view->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     view->setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     view->setItemDelegate(new UiTableItemDelegate(view));
     view->setCursor(Qt::PointingHandCursor);
-    connect(com, QOverload<const QString &>::of(&QCompleter::activated),
-            [=](const QString &text){
-        emit itemSelected(text);
-    });
+
+    connect(com, QOverload<const QString &>::of(&QCompleter::activated), [=](const QString &text){ emit itemSelected(text); });
+
     setCompleter(com);
+
     com->setFilterMode(Qt::MatchContains);
 }
 
 void UiComboLine::setWords(const QList<int> words)
 {
     QStringList strs;
-    for(int i: words) {
+    for(int i: words) 
+    {
         strs << QString::number(i);
     }
     setWords(strs);
@@ -45,7 +47,8 @@ void UiComboLine::setWords(const QList<int> words)
 void UiComboLine::setWords(int start, int len)
 {
     QStringList strs;
-    for(int i = start; i <= len; i++) {
+    for(int i = start; i <= len; i++) 
+    {
         strs << QString::number(i);
     }
     setWords(strs);
@@ -54,9 +57,11 @@ void UiComboLine::setWords(int start, int len)
 QStringList UiComboLine::getWords()
 {
     QStringList strs;
-    if (completer()) {
+    if (completer()) 
+    {
         QAbstractItemModel* m = completer()->model();
-        for (int i = 0; i < m->rowCount(); i++) {
+        for (int i = 0; i < m->rowCount(); i++) 
+        {
             strs << m->index(i, 0).data().toString();
         }
     }
@@ -65,7 +70,8 @@ QStringList UiComboLine::getWords()
 
 void UiComboLine::mousePressEvent(QMouseEvent *e)
 {
-    if (completer()) {
+    if (completer()) 
+    {
         completer()->complete();
     }
 

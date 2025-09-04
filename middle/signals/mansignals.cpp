@@ -1,7 +1,6 @@
 #pragma execution_character_set("utf-8")
 
-#include "mansignals.h"
-
+#include "ManSignals.h"
 
 ManSignals::ManSignals(QObject *parent)
     : QObject{parent}

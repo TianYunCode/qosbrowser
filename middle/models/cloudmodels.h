@@ -2,7 +2,7 @@
 
 #include <QString>
 #include <QMetaType>
-
+ 
 struct BaseObject
  {
     bool isValid() const {return !isInvalid();}

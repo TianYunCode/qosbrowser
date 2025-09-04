@@ -1,12 +1,12 @@
 #pragma execution_character_set("utf-8")
 
-#include "uimain.h"
+#include "UiMain.h"
 #include "qpushbutton.h"
-#include "ui_uimain.h"
-#include "config/common.h"
+#include "ui_UiMain.h"
+#include "config/Common.h"
 #include <QMessageBox>
-#include <fend/uicom/uimessagebox.h>
-#include <fend/uitransfer/uitransfer.h>
+#include <fend/uicom/UiMessageBox.h>
+#include <fend/uitransfer/UiTransfer.h>
 
 UiMain::UiMain(QWidget *parent) :
     UiQosDialog(parent),

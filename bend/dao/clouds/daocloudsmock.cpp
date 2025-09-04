@@ -1,13 +1,13 @@
 #pragma execution_character_set("utf-8")
 
-#include "daocloudsmock.h"
-#include "config/exceptions.h"
-#include "config/errorcode.h"
-#include "helper/filehelper.h"
-#include "middle/manglobal.h"
+#include "DaoCloudsMock.h"
+#include "config/BaseException.h"
+#include "config/ErrorCode.h"
+#include "helper/FileHelper.h"
+#include "middle/ManGlobal.h"
 #include <QJsonArray>
 #include <QThread>
-#include "config/common.h"
+#include "config/Common.h"
 
 DaoCloudsMock::DaoCloudsMock(const QString& path)
 {

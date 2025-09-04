@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>306</width>
-    <height>79</height>
+    <height>83</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -59,7 +59,7 @@
      <item>
       <spacer name="horizontalSpacer">
        <property name="orientation">
-        <enum>Qt::Horizontal</enum>
+        <enum>Qt::Orientation::Horizontal</enum>
        </property>
        <property name="sizeHint" stdset="0">
         <size>
@@ -91,7 +91,7 @@
   <customwidget>
    <class>UiPushButton</class>
    <extends>QPushButton</extends>
-   <header>fend/uicom/uipushbutton.h</header>
+   <header>fend/uicom/UiPushButton.h</header>
   </customwidget>
  </customwidgets>
  <resources/>

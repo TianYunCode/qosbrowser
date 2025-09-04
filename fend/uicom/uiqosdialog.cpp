@@ -1,9 +1,9 @@
 #pragma execution_character_set("utf-8")
 
-#include "uiqosdialog.h"
-#include "config/common.h"
-#include "ui_uiqosdialog.h"
-#include "ui_uibasedialog.h"
+#include "UiQosDialog.h"
+#include "config/Common.h"
+#include "ui_UiQosDialog.h"
+#include "ui_UiBaseDialog.h"
 
 UiQosDialog::UiQosDialog(QWidget *parent) :
     UiBaseDialog(parent),

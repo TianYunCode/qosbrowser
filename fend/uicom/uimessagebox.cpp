@@ -1,8 +1,8 @@
 #pragma execution_character_set("utf-8")
 
-#include "uimessagebox.h"
-#include "fend/uicom/uipushbutton.h"
-#include "ui_uimessagebox.h"
+#include "UiMessageBox.h"
+#include "fend/uicom/UiPushButton.h"
+#include "ui_UiMessageBox.h"
 
 #include <QPushButton>
 

@@ -1,8 +1,8 @@
 #pragma execution_character_set("utf-8")
 
-#include "uitoolbarwidget.h"
-#include "config/common.h"
-#include "ui_uitoolbarwidget.h"
+#include "UiToolBarWidget.h"
+#include "config/Common.h"
+#include "ui_UiToolBarWidget.h"
 
 #include <QFileDialog>
 #include <QSignalMapper>

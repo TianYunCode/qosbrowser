@@ -3,7 +3,7 @@
 #include <QLineEdit>
 #include <QListView>
 #include <QStringListModel>
-
+ 
 class UiComboLine : public QLineEdit
 {
     Q_OBJECT

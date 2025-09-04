@@ -1,6 +1,6 @@
 #pragma once
 
-#include <fend/uicom/uiqosdialog.h>
+#include <fend/uicom/UiQosDialog.h>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class UiLoginDialog; }

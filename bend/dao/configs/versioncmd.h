@@ -1,6 +1,6 @@
 #pragma once
 
-#include "version.h"
+#include "Version.h"
 #include <QStringList>
 
 class VersionCmd : public Version

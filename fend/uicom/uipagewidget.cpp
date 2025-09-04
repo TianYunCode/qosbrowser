@@ -1,10 +1,10 @@
 #pragma execution_character_set("utf-8")
 
-#include "uipagewidget.h"
+#include "UiPageWidget.h"
 #include "qmath.h"
-#include "ui_uipagewidget.h"
+#include "ui_UiPageWidget.h"
 #include <QDebug>
-#include "config/common.h"
+#include "config/Common.h"
 
 UiPageWidget::UiPageWidget(QWidget *parent) :
     QWidget(parent),

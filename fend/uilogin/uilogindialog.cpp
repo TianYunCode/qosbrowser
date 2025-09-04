@@ -1,9 +1,9 @@
 #pragma execution_character_set("utf-8")
 
-#include "uilogindialog.h"
-#include "bend/man/mandb.h"
-#include "config/common.h"
-#include "ui_uilogindialog.h"
+#include "UiLoginDialog.h"
+#include "bend/man/ManDB.h"
+#include "config/Common.h"
+#include "ui_UiLoginDialog.h"
 
 #include <QMessageBox>
 #include <QMouseEvent>

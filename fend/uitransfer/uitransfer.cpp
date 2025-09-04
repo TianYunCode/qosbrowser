@@ -1,8 +1,8 @@
 #pragma execution_character_set("utf-8")
 
-#include "uitransfer.h"
-#include "config/common.h"
-#include "ui_uitransfer.h"
+#include "UiTransfer.h"
+#include "config/Common.h"
+#include "ui_UiTransfer.h"
 
 UiTransfer::UiTransfer(QWidget *parent) :
     UiQosDialog(parent),

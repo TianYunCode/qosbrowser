@@ -1,7 +1,7 @@
 #pragma execution_character_set("utf-8")
 
-#include "uicreatebucketdialog.h"
-#include "ui_uicreatebucketdialog.h"
+#include "UiCreateBucketDialog.h"
+#include "ui_UiCreateBucketDialog.h"
 
 UiCreateBucketDialog::UiCreateBucketDialog(QWidget *parent) :
     UiQosDialog(parent),

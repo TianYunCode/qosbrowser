@@ -1,8 +1,8 @@
 #pragma once
 
-#include "uiqosdialog.h"
+#include "UiQosDialog.h"
 #include <QWidget>
-#include "config/common.h"
+#include "config/Common.h"
 
 namespace Ui {
 class UiMessageBox;

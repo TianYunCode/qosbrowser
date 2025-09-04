@@ -4,7 +4,7 @@
 #include <QComboBox>
 #include <QPainter>
 #include <QStyledItemDelegate>
-
+ 
 class UiCompleterComboBox : public QComboBox
 {
     Q_OBJECT

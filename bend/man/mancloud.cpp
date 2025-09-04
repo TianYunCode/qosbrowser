@@ -1,11 +1,11 @@
 #pragma execution_character_set("utf-8")
 
-#include "mancloud.h"
-#include "middle/manglobal.h"
-#include "middle/signals/mansignals.h"
-#include "plugins/manplugin.h"
+#include "ManCloud.h"
+#include "middle/ManGlobal.h"
+#include "middle/signals/ManSignals.h"
+#include "plugins/ManPlugin.h"
 #include <QDebug>
-#include <bend/dao/clouds/daocloudsmock.h>
+#include <bend/dao/clouds/DaoCloudsMock.h>
 
 
 ManCloud::ManCloud(QObject *parent)

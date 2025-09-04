@@ -1,6 +1,6 @@
 #pragma once
 
-#include "daologininfo.h"
+#include "DaoLoginInfo.h"
 
 class DaoLoginInfoSqlite: public DaoLoginInfo
 {

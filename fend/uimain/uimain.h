@@ -1,8 +1,8 @@
 #pragma once
 
-#include <fend/uicom/uiqosdialog.h>
+#include <fend/uicom/UiQosDialog.h>
 
-#include <middle/models/cloudmodels.h>
+#include <middle/models/CloudModels.h>
 
 #include <QJsonValue>
 

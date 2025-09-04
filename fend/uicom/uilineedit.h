@@ -1,7 +1,7 @@
 #pragma once
 
 #include <QLineEdit>
-
+ 
 class UiLineEdit : public QLineEdit
 {
     Q_OBJECT

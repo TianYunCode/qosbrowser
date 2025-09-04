@@ -1,14 +1,14 @@
 #pragma execution_character_set("utf-8")
 
-#include "uiupload.h"
-#include "config/common.h"
-#include "ui_uiupload.h"
-#include "fend/uicom/uiprogresswidget.h"
+#include "UiUpload.h"
+#include "config/Common.h"
+#include "ui_UiUpload.h"
+#include "fend/uicom/UiProgressWidget.h"
 
 
 #include <QFileInfo>
 
-#include <fend/uidelegates/uitableitemdelegate.h>
+#include <fend/uidelegates/UiTableItemDelegate.h>
 
 
 UiUpload::UiUpload(QWidget *parent) :

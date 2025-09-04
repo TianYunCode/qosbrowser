@@ -5,7 +5,6 @@
 class DaoClouds;
 class Version;
 
-
 class ManPlugin : public QObject
 {
     Q_OBJECT

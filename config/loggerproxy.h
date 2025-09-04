@@ -1,7 +1,7 @@
 #pragma once
 
-#include "bend/dao/logs/basiclogger.h"
-#include "config/globals.h"
+#include "bend/dao/logs/BasicLogger.h"
+#include "config/GLOBAL.h"
 
 class LoggerProxy: public QObject
 {

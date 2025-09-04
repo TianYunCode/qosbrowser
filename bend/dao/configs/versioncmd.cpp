@@ -1,7 +1,7 @@
 #pragma execution_character_set("utf-8")
 
-#include "versioncmd.h"
-#include "config/common.h"
+#include "VersionCmd.h"
+#include "config/Common.h"
 
 VersionCmd::VersionCmd(int argc, char *argv[])
 {

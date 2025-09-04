@@ -1,8 +1,8 @@
 
 #pragma execution_character_set("utf-8")
 
-#include "uibasedialog.h"
-#include "ui_uibasedialog.h"
+#include "UiBaseDialog.h"
+#include "ui_UiBaseDialog.h"
 
 #include <QMouseEvent>
 #include <QKeyEvent>

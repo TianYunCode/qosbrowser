@@ -4,15 +4,15 @@
 #include <QJsonObject>
 #include <QFileDialog>
 #include <QMessageBox>
-#include <middle/signals/mansignals.h>
-#include <fend/uidelegates/uitableitemdelegate.h>
-#include "bend/gateway.h"
-#include "bend/man/mancloud.h"
-#include "uiobjectstablewidget.h"
-#include "ui_uiobjectstablewidget.h"
-#include "middle/manmodels.h"
-#include "middle/manglobal.h"
-#include "config/common.h"
+#include <middle/signals/ManSignals.h>
+#include <fend/uidelegates/UiTableItemDelegate.h>
+#include "bend/GateWay.h"
+#include "bend/man/ManCloud.h"
+#include "UiObjectsTableWidget.h"
+#include "ui_UiObjectsTableWidget.h"
+#include "middle/ManModels.h"
+#include "middle/ManGlobal.h"
+#include "config/Common.h"
 
 UiObjectsTableWidget::UiObjectsTableWidget(QWidget *parent) :
     QWidget(parent),

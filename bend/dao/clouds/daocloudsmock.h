@@ -1,6 +1,6 @@
 #pragma once
 
-#include "daoclouds.h"
+#include "DaoClouds.h"
 #include <QJsonValue>
 
 class DaoCloudsMock: public DaoClouds

@@ -1,9 +1,9 @@
 #pragma once
 
-//#include "middle/models/cloudmodels.h"
+//#include "middle/models/CloudModels.h"
 #include <QJsonValue>
 #include <QObject>
-#include "config/apis.h"
+#include "config/API.h"
 
 class GateWay : public QObject
 {

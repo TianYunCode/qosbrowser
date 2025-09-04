@@ -1,6 +1,6 @@
 #pragma once
 
-#include "uibasedialog.h"
+#include "UiBaseDialog.h"
 
 namespace Ui {
 class UiQosDialog;

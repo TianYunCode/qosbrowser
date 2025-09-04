@@ -1,8 +1,8 @@
 #pragma execution_character_set("utf-8")
 
-#include "loggerproxy.h"
-#include "qthread.h"
-#include "middle/manglobal.h"
+#include "LoggerProxy.h"
+#include <QThread>
+#include "middle/ManGlobal.h"
 
 /**
 基础日志类，派生出该类来实现具体的日志记录

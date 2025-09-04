@@ -6,7 +6,7 @@
 namespace Ui {
 class UiBreadWidget;
 }
-
+ 
 class UiBreadWidget : public QWidget
 {
     Q_OBJECT

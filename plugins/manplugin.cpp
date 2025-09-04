@@ -1,14 +1,14 @@
 #pragma execution_character_set("utf-8")
 
-#include "manplugin.h"
-#include "bend/dao/clouds/daocloudsmock.h"
-#include "bend/dao/configs/versioncmd.h"
-#include "bend/dao/configs/versionjson.h"
-#include "config/globals.h"
-#include "middle/manglobal.h"
-#include "bend/dao/logs/loggerqdebug.h"
+#include "ManPlugin.h"
+#include "bend/dao/clouds/DaoCloudsMock.h"
+#include "bend/dao/configs/VersionCmd.h"
+#include "bend/dao/configs/VersionJson.h"
+#include "config/GLOBAL.h"
+#include "middle/ManGlobal.h"
+#include "bend/dao/logs/LoggerQDebug.h"
 
-#include <bend/dao/clouds/daocloudscos.h>
+#include <bend/dao/clouds/DaoCloudsCos.h>
 using namespace GLOBAL;
 
 

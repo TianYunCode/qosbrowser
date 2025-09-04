@@ -1,12 +1,12 @@
 #pragma execution_character_set("utf-8")
 
-#include "basiclogger.h"
-#include "config/globals.h"
+#include "BasicLogger.h"
+#include "config/GLOBAL.h"
 #include <QThread>
 #include <QDir>
 #include <QDate>
 #include <QDebug>
-#include "config/common.h"
+#include "config/Common.h"
 
 /**
 基础日志类，派生出该类来实现具体的日志记录

@@ -1,10 +1,10 @@
 #pragma execution_character_set("utf-8")
 
-#include "dbsqlite.h"
+#include "DbSqlite.h"
 #include <QSqlError>
 #include <QSqlRecord>
-#include "middle/manglobal.h"
-#include "config/common.h"
+#include "middle/ManGlobal.h"
+#include "config/Common.h"
 
 DbSqlite::DbSqlite()
 {

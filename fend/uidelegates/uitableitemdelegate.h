@@ -1,7 +1,7 @@
 #pragma once
 
 #include <QStyledItemDelegate>
-
+ 
 class UiTableItemDelegate : public QStyledItemDelegate
 {
     Q_OBJECT

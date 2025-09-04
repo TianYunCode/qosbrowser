@@ -1,11 +1,10 @@
 #pragma execution_character_set("utf-8")
 
-#include "uidownload.h"
-#include "config/common.h"
-#include "ui_uidownload.h"
-#include <fend/uicom/uiprogresswidget.h>
-#include <fend/uidelegates/uitableitemdelegate.h>
-
+#include "UiDownload.h"
+#include "config/Common.h"
+#include "ui_UiDownload.h"
+#include <fend/uicom/UiProgressWidget.h>
+#include <fend/uidelegates/UiTableItemDelegate.h>
 
 UiDownload::UiDownload(QWidget *parent) :
     QWidget(parent),

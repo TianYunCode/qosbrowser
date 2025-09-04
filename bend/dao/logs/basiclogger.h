@@ -3,7 +3,7 @@
 #include <QObject>
 
 class BasicLogger : public QObject
-{
+{ 
     Q_OBJECT
 public:
     explicit BasicLogger(QObject *parent = nullptr);

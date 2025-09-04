@@ -1,10 +1,10 @@
 #pragma execution_character_set("utf-8")
 
-//#include "middle/manglobal.h"
-#include "daocloudscos.h"
-#include "config/exceptions.h"
-#include "config/errorcode.h"
-#include "config/common.h"
+//#include "middle/ManGlobal.h"
+#include "DaoCloudsCos.h"
+#include "config/BaseException.h"
+#include "config/ErrorCode.h"
+#include "config/Common.h"
 #include <QDebug>
 
 // 此头文件要放到最后，否则可能会报错

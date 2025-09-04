@@ -5,7 +5,7 @@
 QT_BEGIN_NAMESPACE
 namespace Ui { class UiBaseDialog; }
 QT_END_NAMESPACE
-
+ 
 class UiBaseDialog : public QDialog
 {
     Q_OBJECT

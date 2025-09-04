@@ -1,7 +1,7 @@
 #pragma once
 
 #include <QString>
-
+ 
 struct LoginInfo
 {
     QString name;

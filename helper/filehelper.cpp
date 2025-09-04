@@ -1,6 +1,6 @@
 #pragma execution_character_set("utf-8")
 
-#include "filehelper.h"
+#include "FileHelper.h"
 
 #include <QFile>
 #include <QJsonDocument>

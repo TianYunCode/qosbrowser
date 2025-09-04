@@ -29,7 +29,7 @@
    <item>
     <widget class="QTabWidget" name="tabWidget">
      <property name="currentIndex">
-      <number>0</number>
+      <number>1</number>
      </property>
      <widget class="UiUpload" name="tabUpload">
       <attribute name="title">
@@ -49,13 +49,13 @@
   <customwidget>
    <class>UiDownload</class>
    <extends>QWidget</extends>
-   <header>fend/uitransfer/uidownload.h</header>
+   <header>fend/uitransfer/UiDownload.h</header>
    <container>1</container>
   </customwidget>
   <customwidget>
    <class>UiUpload</class>
    <extends>QWidget</extends>
-   <header>fend/uitransfer/uiupload.h</header>
+   <header>fend/uitransfer/UiUpload.h</header>
    <container>1</container>
   </customwidget>
  </customwidgets>

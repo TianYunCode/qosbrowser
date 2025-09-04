@@ -5,7 +5,8 @@
 
 namespace Ui {
 class UiUpload;
-}
+} 
+
 class UiProgressWidget;
 class UiUpload : public QWidget
 {

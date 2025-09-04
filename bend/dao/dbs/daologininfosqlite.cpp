@@ -1,7 +1,7 @@
 #pragma execution_character_set("utf-8")
 
-#include "daologininfosqlite.h"
-#include "config/globals.h"
+#include "DaoLoginInfoSqlite.h"
+#include "config/GLOBAL.h"
 
 DaoLoginInfoSqlite::DaoLoginInfoSqlite()
 {

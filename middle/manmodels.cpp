@@ -1,11 +1,11 @@
 #pragma execution_character_set("utf-8")
 
-#include "manmodels.h"
-#include "middle/manglobal.h"
-#include "middle/signals/mansignals.h"
+#include "ManModels.h"
+#include "middle/ManGlobal.h"
+#include "middle/signals/ManSignals.h"
 
-#include <helper/bytehelper.h>
-#include "config/common.h"
+#include <helper/ByteHelper.h>
+#include "config/Common.h"
 
 ManModels::ManModels(QObject *parent)
     : QObject{parent}

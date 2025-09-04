@@ -6,7 +6,7 @@ namespace LOGIN
 {
 static const int NORMAL = 1; // 常规登录
 }
-
+ 
 namespace BUCKETS
 {
 static const int BASE = 100;

@@ -1,8 +1,8 @@
 #pragma execution_character_set("utf-8")
 
-#include "mandb.h"
+#include "ManDB.h"
 #include <QDateTime>
-#include "config/common.h"
+#include "config/Common.h"
 
 ManDB::ManDB(QObject *parent)
     : QObject{parent}

@@ -5,7 +5,7 @@
 namespace Ui {
 class UiToolBarWidget;
 }
-
+ 
 class UiToolBarWidget : public QWidget
 {
     Q_OBJECT

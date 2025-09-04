@@ -1,6 +1,6 @@
 #pragma execution_character_set("utf-8")
 
-#include "uipushbutton.h"
+#include "UiPushButton.h"
 
 UiPushButton::UiPushButton(QWidget* parent): QPushButton(parent)
 {

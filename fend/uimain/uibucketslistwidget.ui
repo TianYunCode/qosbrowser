@@ -49,7 +49,7 @@
    <item>
     <widget class="QListView" name="listView">
      <property name="editTriggers">
-      <set>QAbstractItemView::NoEditTriggers</set>
+      <set>QAbstractItemView::EditTrigger::NoEditTriggers</set>
      </property>
     </widget>
    </item>
@@ -59,7 +59,7 @@
   <customwidget>
    <class>UiComboLine</class>
    <extends>QLineEdit</extends>
-   <header>fend/uicom/uicomboline.h</header>
+   <header>fend/uicom/UiComboLine.h</header>
   </customwidget>
  </customwidgets>
  <resources/>

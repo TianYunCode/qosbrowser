@@ -1,8 +1,8 @@
 #pragma once
 
 #include <QObject>
-#include <helper/dbsqlite.h>
-#include <bend/dao/dbs/daologininfosqlite.h>
+#include <helper/DbSqlite.h>
+#include <bend/dao/dbs/DaoLoginInfoSqlite.h>
 
 
 class ManDB : public QObject

@@ -116,12 +116,12 @@
   <customwidget>
    <class>UiComboLine</class>
    <extends>QLineEdit</extends>
-   <header>fend/uicom/uicomboline.h</header>
+   <header>fend/uicom/UiComboLine.h</header>
   </customwidget>
   <customwidget>
    <class>UiPushButton</class>
    <extends>QPushButton</extends>
-   <header>fend/uicom/uipushbutton.h</header>
+   <header>fend/uicom/UiPushButton.h</header>
   </customwidget>
  </customwidgets>
  <resources/>

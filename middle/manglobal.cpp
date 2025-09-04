@@ -2,14 +2,14 @@
 
 #include <QApplication>
 
-#include "manglobal.h"
-#include "bend/gateway.h"
-#include "middle/manmodels.h"
-#include "middle/signals/mansignals.h"
-#include "plugins/manplugin.h"
+#include "ManGlobal.h"
+#include "bend/GateWay.h"
+#include "middle/ManModels.h"
+#include "middle/signals/ManSignals.h"
+#include "plugins/ManPlugin.h"
 
-#include <bend/man/mancloud.h>
-#include <bend/man/mandb.h>
+#include <bend/man/ManCloud.h>
+#include <bend/man/ManDB.h>
 
 Q_GLOBAL_STATIC(ManGlobal, ins)
 

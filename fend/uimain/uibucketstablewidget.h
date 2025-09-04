@@ -1,7 +1,7 @@
 #pragma once
 
 #include <QWidget>
-#include "middle/models/cloudmodels.h"
+#include "middle/models/CloudModels.h"
 
 namespace Ui {
 class UiBucketsTableWidget;

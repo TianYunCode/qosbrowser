@@ -1,12 +1,12 @@
 #pragma execution_character_set("utf-8")
 
-#include "uiprogresswidget.h"
-#include "ui_uiprogresswidget.h"
+#include "UiProgressWidget.h"
+#include "ui_UiProgressWidget.h"
 
 #include <QTimer>
 
-#include <helper/bytehelper.h>
-#include "config/common.h"
+#include <helper/ByteHelper.h>
+#include "config/Common.h"
 
 UiProgressWidget::UiProgressWidget(QWidget *parent) :
     QWidget(parent),

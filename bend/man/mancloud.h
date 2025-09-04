@@ -2,7 +2,7 @@
 
 #include <QObject>
 
-#include <middle/models/cloudmodels.h>
+#include <middle/models/CloudModels.h>
 
 class ManCloud : public QObject
 {

@@ -2,7 +2,7 @@
 
 #include <QString>
 #include <QJsonObject>
-
+ 
 class Version
 {
 public:

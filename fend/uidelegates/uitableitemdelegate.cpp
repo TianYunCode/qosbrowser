@@ -1,6 +1,6 @@
 #pragma execution_character_set("utf-8")
 
-#include "uitableitemdelegate.h"
+#include "UiTableItemDelegate.h"
 #include <QAbstractItemView>
 #include <QPainter>
 #include <QTableWidget>

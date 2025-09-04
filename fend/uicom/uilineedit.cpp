@@ -1,6 +1,6 @@
 #pragma execution_character_set("utf-8")
 
-#include "uilineedit.h"
+#include "UiLineEdit.h"
 
 #include <QKeyEvent>
 

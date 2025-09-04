@@ -1,6 +1,6 @@
 #pragma once
 
-#include "middle/models/cloudmodels.h"
+#include "middle/models/CloudModels.h"
 #include <QWidget>
 
 namespace Ui {

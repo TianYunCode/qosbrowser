@@ -2,7 +2,7 @@
 
 #include <QWidget>
 
-#include <fend/uicom/uiqosdialog.h>
+#include <fend/uicom/UiQosDialog.h>
 
 namespace Ui {
 class UiTransfer;

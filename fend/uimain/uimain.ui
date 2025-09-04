@@ -32,7 +32,7 @@
    <item>
     <widget class="QSplitter" name="splitter">
      <property name="orientation">
-      <enum>Qt::Horizontal</enum>
+      <enum>Qt::Orientation::Horizontal</enum>
      </property>
      <property name="handleWidth">
       <number>2</number>
@@ -59,19 +59,19 @@
   <customwidget>
    <class>UiBucketsListWidget</class>
    <extends>QWidget</extends>
-   <header>fend/uimain/uibucketslistwidget.h</header>
+   <header>fend/uimain/UiBucketsListWidget.h</header>
    <container>1</container>
   </customwidget>
   <customwidget>
    <class>UiObjectsTableWidget</class>
    <extends>QWidget</extends>
-   <header>fend/uimain/uiobjectstablewidget.h</header>
+   <header>fend/uimain/UiObjectsTableWidget.h</header>
    <container>1</container>
   </customwidget>
   <customwidget>
    <class>UiBucketsTableWidget</class>
    <extends>QWidget</extends>
-   <header>fend/uimain/uibucketstablewidget.h</header>
+   <header>fend/uimain/UiBucketsTableWidget.h</header>
    <container>1</container>
   </customwidget>
  </customwidgets>

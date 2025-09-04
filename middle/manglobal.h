@@ -1,9 +1,9 @@
 #pragma once
 
 #include <QObject>
-#include "config/loggerproxy.h"
-#include "config/errorcode.h"
-#include "config/exceptions.h"
+#include "config/LoggerProxy.h"
+#include "config/ErrorCode.h"
+#include "config/BaseException.h"
 
 #define MG ManGlobal::instance()
 #define mLogIns MG->mLog

@@ -1,9 +1,9 @@
 #pragma execution_character_set("utf-8")
 
 #include <QStandardItemModel>
-#include "uibucketslistwidget.h"
-#include "config/common.h"
-#include "ui_uibucketslistwidget.h"
+#include "UiBucketsListWidget.h"
+#include "config/Common.h"
+#include "ui_UiBucketsListWidget.h"
 
 #include <QJsonObject>
 

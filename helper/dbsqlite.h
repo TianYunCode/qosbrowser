@@ -4,7 +4,7 @@
 #include <QSqlDatabase>
 #include <QSqlQuery>
 #include <QVariant>
-
+ 
 typedef QMap<QString, QVariant> RECORD;
 
 class DbSqlite

@@ -1,7 +1,7 @@
 #pragma execution_character_set("utf-8")
 
-#include "versionjson.h"
-#include "helper/filehelper.h"
+#include "VersionJson.h"
+#include "helper/FileHelper.h"
 
 VersionJson::VersionJson(const QString &path)
 {

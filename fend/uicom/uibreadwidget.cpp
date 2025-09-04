@@ -1,7 +1,7 @@
 #pragma execution_character_set("utf-8")
 
-#include "uibreadwidget.h"
-#include "ui_uibreadwidget.h"
+#include "UiBreadWidget.h"
+#include "ui_UiBreadWidget.h"
 
 #include <QLabel>
 #include <QDebug>

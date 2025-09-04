@@ -125,7 +125,7 @@
   <customwidget>
    <class>UiPushButton</class>
    <extends>QPushButton</extends>
-   <header>fend/uicom/uipushbutton.h</header>
+   <header>fend/uicom/UiPushButton.h</header>
   </customwidget>
  </customwidgets>
  <resources/>

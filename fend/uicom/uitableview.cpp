@@ -1,7 +1,7 @@
 #pragma execution_character_set("utf-8")
 
-#include "uitableview.h"
-#include <fend/uidelegates/uitableitemdelegate.h>
+#include "UiTableView.h"
+#include <fend/uidelegates/UiTableItemDelegate.h>
 
 UiTableView::UiTableView(QWidget *parent):QTableView(parent)
 {

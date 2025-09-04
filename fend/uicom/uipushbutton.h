@@ -1,7 +1,7 @@
 #pragma once
 
 #include <QPushButton>
-
+ 
 class UiPushButton : public QPushButton
 {
     Q_OBJECT

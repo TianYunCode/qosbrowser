@@ -1,6 +1,6 @@
 #pragma once
 
-#include "daoclouds.h"
+#include "DaoClouds.h"
 
 namespace qcloud_cos
 {

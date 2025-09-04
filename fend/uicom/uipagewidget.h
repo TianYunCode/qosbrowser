@@ -5,7 +5,7 @@
 namespace Ui {
 class UiPageWidget;
 }
-
+ 
 class UiPageWidget : public QWidget
 {
     Q_OBJECT
