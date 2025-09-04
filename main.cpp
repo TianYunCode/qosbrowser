@@ -1,6 +1,6 @@
-#include "fend/uilogin/uilogindialog.h"
-#include "fend/uimain/uimain.h"
-#include "middle/manglobal.h"
+#include "fend/uilogin/UiLoginDialog.h"
+#include "fend/uimain/UiMain.h"
+#include "middle/ManGlobal.h"
 
 #include <QApplication>
 
