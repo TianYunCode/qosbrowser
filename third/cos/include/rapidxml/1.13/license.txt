@@ -1,4 +1,4 @@
-﻿Use of this software is granted under one of the following two licenses,
+Use of this software is granted under one of the following two licenses,
 to be chosen freely by the user.
 
 1. Boost Software License - Version 1.0 - August 17th, 2003

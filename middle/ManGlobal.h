@@ -31,7 +31,9 @@ class ManGlobal : public QObject
 public:
     explicit ManGlobal(QObject *parent = nullptr);
     ~ManGlobal();
+
     static ManGlobal* instance();
+
     void init(int argc, char *argv[]);
 
 public:

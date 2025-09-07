@@ -10,11 +10,10 @@ class ManModels : public QObject
 public:
     explicit ManModels(QObject *parent = nullptr);
 
+    void init();
+
     QStandardItemModel *modelBuckets() const;
-
     QStandardItemModel *modelObjects() const;
-
-signals:
 
 private slots:
     void setBuckets(const QList<MyBucket>& buckets);

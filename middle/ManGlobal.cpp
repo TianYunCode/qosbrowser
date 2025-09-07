@@ -13,8 +13,7 @@
 
 Q_GLOBAL_STATIC(ManGlobal, ins)
 
-ManGlobal::ManGlobal(QObject *parent)
-    : QObject{parent}
+ManGlobal::ManGlobal(QObject *parent) : QObject{parent}
 {
     mLog = new LoggerProxy(this);
     mCloud = new ManCloud(this);
@@ -22,7 +21,7 @@ ManGlobal::ManGlobal(QObject *parent)
     mSignal = new ManSignals(this);
     mPlugin = new ManPlugin(this);
     mGate = new GateWay(this);
-//    mModels = new ManModels(this);
+    mModels = new ManModels(this);
 }
 
 ManGlobal::~ManGlobal()
@@ -37,7 +36,8 @@ ManGlobal *ManGlobal::instance()
 
 void ManGlobal::init(int argc, char *argv[])
 {
-    mModels = new ManModels(this);
+    mModels->init();
+
     FileHelper::mkPath(GLOBAL::PATH::LOG_DIR);
     FileHelper::mkPath(GLOBAL::PATH::TMP);
 
