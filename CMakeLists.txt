@@ -1,4 +1,4 @@
-﻿cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.16)
 project(qosbrowser)
 
 # 设置 C++ 标准
@@ -106,6 +106,11 @@ file(COPY third/dll/PocoXML.dll DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
 
 # 创建可执行文件
 add_executable(${PROJECT_NAME} ${SOURCES} ${UI_FILES} ${RESOURCES})
+
+# 明确设置不创建窗口应用程序（即显示控制台）
+set_target_properties(${PROJECT_NAME} PROPERTIES
+    WIN32_EXECUTABLE FALSE  # 这是关键，确保设置为FALSE
+)
 
 # 链接 Qt 库
 target_link_libraries(${PROJECT_NAME} Qt6::Core Qt6::Gui Qt6::Sql Qt6::Concurrent Qt6::Widgets)

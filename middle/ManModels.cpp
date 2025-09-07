@@ -7,13 +7,19 @@
 #include <helper/ByteHelper.h>
 #include "config/Common.h"
 
-ManModels::ManModels(QObject *parent)
-    : QObject{parent}
+ManModels::ManModels(QObject *parent) : QObject{parent}
+{
+    
+}
+
+void ManModels::init()
 {
     m_modelBuckets = new QStandardItemModel(this);
     m_modelObjects = new QStandardItemModel(this);
+
     initBucketsTable();
     initObjectsTable();
+
     connect(MG->mSignal, &ManSignals::bucketsSuccess, this, &ManModels::setBuckets);
     connect(MG->mSignal, &ManSignals::objectsSuccess, this, &ManModels::setObjects);
 }
